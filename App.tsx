@@ -97,7 +97,7 @@ const App: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-center gap-8">
             <p className="text-slate-400 text-lg md:text-xl max-w-lg font-bold leading-tight">
               대한민국 모든 마라톤 일정을 단 한 곳에서. <br />
-              <span className="text-white underline decoration-blue-500 underline-offset-4">광클 방지기</span>와 함께 페이스를 조절하세요.
+              <span className="text-white underline decoration-blue-500 underline-offset-4">RunD-day</span>와 함께 페이스를 조절하세요.
             </p>
             
             <div className="flex gap-4">
@@ -197,7 +197,7 @@ const App: React.FC = () => {
           <div className="inline-block bg-lime-400 text-slate-950 px-6 py-2 rounded-full font-black italic uppercase tracking-widest text-xs mb-8">
             Keep Running, Never Stop
           </div>
-          <h2 className="text-3xl font-black text-white italic mb-10">🏃 마라톤 광클 방지기</h2>
+          <h2 className="text-3xl font-black text-white italic mb-10">🏃 RunD-day</h2>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-2xl mx-auto text-slate-500 mb-12">
             <div>
@@ -214,13 +214,13 @@ const App: React.FC = () => {
             </div>
             <div>
               <div className="text-white font-black italic mb-1 uppercase text-xs">Contact</div>
-              <div className="text-[10px]">support@marathonalert.kr</div>
+              <div className="text-[10px]">support@rund-day.kr</div>
             </div>
           </div>
 
           <p className="text-slate-600 text-[10px] leading-relaxed max-w-lg mx-auto uppercase font-bold tracking-widest">
             The road belongs to the one who shows up. Every step counts. <br />
-            © 2026 Marathon Alert. Built for the community.
+            © 2026 RunD-day. Built for the community.
           </p>
         </div>
       </footer>
