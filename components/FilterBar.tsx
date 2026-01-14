@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { REGIONS, DISTANCES, MONTHS } from '../constants';
 import { FilterState } from '../types';
 import { Search, RotateCcw, ChevronDown, Filter } from 'lucide-react';
@@ -11,6 +11,23 @@ interface FilterBarProps {
 }
 
 const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) => {
+  const [openDropdown, setOpenDropdown] = useState<'month' | 'region' | null>(null);
+  const monthRef = useRef<HTMLDivElement>(null);
+  const regionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        monthRef.current && !monthRef.current.contains(event.target as Node) &&
+        regionRef.current && !regionRef.current.contains(event.target as Node)
+      ) {
+        setOpenDropdown(null);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
   const toggleMonth = (m: number) => {
     setFilters(prev => ({
       ...prev,
@@ -55,40 +72,50 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
           </div>
 
           <div className="flex gap-2 shrink-0">
-             <div className="relative group">
-                <button className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700">
+             <div className="relative" ref={monthRef}>
+                <button
+                  onClick={() => setOpenDropdown(openDropdown === 'month' ? null : 'month')}
+                  className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700"
+                >
                   MONTH
-                  <ChevronDown size={14} className="text-slate-500" />
+                  <ChevronDown size={14} className={`text-slate-500 transition-transform ${openDropdown === 'month' ? 'rotate-180' : ''}`} />
                 </button>
-                <div className="absolute top-full left-0 mt-3 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 grid grid-cols-4 gap-2 w-56 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-all z-50">
-                   {MONTHS.map(m => (
-                     <button 
-                       key={m} 
-                       onClick={() => toggleMonth(m)}
-                       className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.months.includes(m) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
-                     >
-                       {m}월
-                     </button>
-                   ))}
-                </div>
+                {openDropdown === 'month' && (
+                  <div className="absolute top-full left-0 mt-2 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 grid grid-cols-4 gap-2 w-56 z-50 animate-in fade-in slide-in-from-top-2 duration-200">
+                     {MONTHS.map(m => (
+                       <button
+                         key={m}
+                         onClick={() => toggleMonth(m)}
+                         className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.months.includes(m) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
+                       >
+                         {m}월
+                       </button>
+                     ))}
+                  </div>
+                )}
              </div>
 
-             <div className="relative group">
-                <button className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700">
+             <div className="relative" ref={regionRef}>
+                <button
+                  onClick={() => setOpenDropdown(openDropdown === 'region' ? null : 'region')}
+                  className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700"
+                >
                   REGION
-                  <ChevronDown size={14} className="text-slate-500" />
+                  <ChevronDown size={14} className={`text-slate-500 transition-transform ${openDropdown === 'region' ? 'rotate-180' : ''}`} />
                 </button>
-                <div className="absolute top-full left-0 mt-3 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 grid grid-cols-3 gap-2 w-72 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-all z-50">
-                   {REGIONS.map(r => (
-                     <button 
-                       key={r} 
-                       onClick={() => toggleRegion(r)}
-                       className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.regions.includes(r) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
-                     >
-                       {r}
-                     </button>
-                   ))}
-                </div>
+                {openDropdown === 'region' && (
+                  <div className="absolute top-full left-0 mt-2 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 grid grid-cols-3 gap-2 w-72 z-50 animate-in fade-in slide-in-from-top-2 duration-200">
+                     {REGIONS.map(r => (
+                       <button
+                         key={r}
+                         onClick={() => toggleRegion(r)}
+                         className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.regions.includes(r) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
+                       >
+                         {r}
+                       </button>
+                     ))}
+                  </div>
+                )}
              </div>
 
              <button 

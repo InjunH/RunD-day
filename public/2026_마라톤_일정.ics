@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marathon Calendar 2026//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 마라톤 일정
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:c22bf2d9-c551-4c74-9426-7e59064b9ba8
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🏃 2026 신해 일출달리기
+LOCATION:서울
+DESCRIPTION:종목: 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e950941d-f171-473d-929c-3ab62e1cea94
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:🏃 천마타 신해 맞이 마라톤
+LOCATION:충남 금산
+DESCRIPTION:종목: 풀, 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd7a947-27e4-4fa0-874b-83aa3e4bb2bc
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:🏃 제2회 한강 서울 하프 마라톤
+LOCATION:서울 잠실 올림픽공원
+DESCRIPTION:종목: 하프, 10km, 5km\n⭐ 인기대회\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:85e6d99b-0d8c-483f-badc-33908a205491
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:🏃 화성 궁평항 동계 훈련 마라톤
+LOCATION:경기 화성시 궁평항
+DESCRIPTION:종목: 32km, 하프, 10km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f2c7089-1d5e-4370-bbdb-208a17cab1b4
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:🏃 희망드림 제23회 동계 국제 마라톤
+LOCATION:서울 여의도 한강공원
+DESCRIPTION:종목: 32km, 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa58608-570c-4e0c-922d-b444e2189715
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:🏃 2026 대구마라톤
+LOCATION:대구스타디움
+DESCRIPTION:종목: 풀, 10km, 5km\n⭐ IAAF 공인 국제대회\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0047ed-9cb4-4042-983c-5fb538ac797f
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:🏃 경기수원국제하프마라톤
+LOCATION:경기 수원
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bc1cc2-3470-4ceb-9dde-256dbc7eeb2a
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:🏃 제22회 밀양아리랑마라톤
+LOCATION:경남 밀양
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d973adb1-76dc-4b79-b636-f6e88c652f61
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:🏃 머니투데이방송 일일절 마라톤
+LOCATION:서울
+DESCRIPTION:종목: 풀, 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d045eae5-043a-452b-a9f6-971090f1c150
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:🏃 2026 고양특례시 하프마라톤
+LOCATION:경기 고양
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69eff18f-5453-4742-a2ea-d68ed92093b6
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:🏃 2026 서울마라톤 (동아마라톤)
+LOCATION:서울 광화문→잠실
+DESCRIPTION:종목: 풀, 10km\n⭐⭐ 국내 최대규모 4만명\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e88adff-8659-4a42-a881-1a2e97f0420d
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:🏃 서울 K-마라톤대회
+LOCATION:서울 광화문광장
+DESCRIPTION:종목: 하프, 10km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af54173e-c2e1-425e-9b20-f81ec6b0c3c1
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:🏃 제26회 인천국제하프마라톤
+LOCATION:인천
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8df30f99-6d5a-4b26-8337-90d33cf6d38c
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:🏃 제25회 함안벚꽃마라톤
+LOCATION:경남 함안
+DESCRIPTION:종목: 풀, 하프, 10km, 5km\n🌸 벚꽃시즌\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1adcd797-1029-4e6d-93d9-a5fafa11bd49
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:🏃 제33회 경주벚꽃마라톤
+LOCATION:경북 경주
+DESCRIPTION:종목: 하프, 10km, 5km\n🌸 벚꽃시즌\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4f3620c8-ba27-4f21-8576-ff2c39b18952
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🏃 군산 새만금마라톤
+LOCATION:전북 군산
+DESCRIPTION:종목: 풀, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:967337dd-f09d-4a8b-a223-5344aefc5023
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🏃 제27회 이천 도자기 마라톤
+LOCATION:경기 이천
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b1792804-71d0-4217-bb33-57c88b752f35
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:🏃 제8회 오션뷰 기장바다마라톤
+LOCATION:부산 기장
+DESCRIPTION:종목: 하프, 10km, 3km\n🌊 바다뷰\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e48caaaa-560b-4e86-b449-021511651573
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:🏃 제30회 일천 황새조 국제 마라톤
+LOCATION:강원 일천
+DESCRIPTION:종목: 풀, 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5765272-b683-4ed9-aeb3-8cfa2b87d1dc
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:🏃 2026 서울하프마라톤
+LOCATION:서울 광화문→잠실
+DESCRIPTION:종목: 하프, 10km\n⭐ 조선일보 주최, 선착순마감 주의\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4243feb7-b493-4cc2-ac0d-df65ef4c2c18
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:🏃 제24회 서울워킹페스티벌
+LOCATION:서울
+DESCRIPTION:종목: 25km, 10km, 9km, 5km\n걷기대회\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de5c3e96-5e2d-44b4-a7b0-b295ad40a0f5
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:🏃 삼성생명희망도봄서울시민마라톤
+LOCATION:서울
+DESCRIPTION:종목: 하프, 10km, 5km, 3km\n💝 기부런\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:113f47d7-dc31-400e-aa6e-343d5fff25f7
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:🏃 제4회 서울한강 울트라마라톤
+LOCATION:서울 한강
+DESCRIPTION:종목: 100km, 50km\n울트라\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25e564ba-5a82-43af-b545-cd53305bf956
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:🏃 제37회 지리산 화랑종주
+LOCATION:전남 지리산
+DESCRIPTION:종목: 48km, 40km, 34km, 21km\n🏔️ 트레일\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4041f4-2c87-48b2-9c22-f9c1b5599c90
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:🏃 금산성두봄마라톤
+LOCATION:충남 금산
+DESCRIPTION:종목: 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f051933-c997-48c3-ab22-a4fa80d7cf03
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:🏃 희망드림 새벽감별 국제마라톤
+LOCATION:서울
+DESCRIPTION:종목: 하프, 10km, 5km, 3km\n🌅 새벽대회\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d15a3cdf-6dfe-4571-aacf-630c61156a24
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:🏃 제22회 오색국제트레킹페스티벌
+LOCATION:강원 오색
+DESCRIPTION:종목: 20km, 10km, 5km\n트레킹\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39e40b7c-a087-4673-a89c-5af58ed6d9ce
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:🏃 제22회 영덕 해변 전국마라톤
+LOCATION:경북 영덕
+DESCRIPTION:종목: 하프, 10km, 5km\n🌊 해변코스\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e703da73-fcc3-419c-b2f6-8df0d6600948
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🏃 영천 금강송담배 전국마라톤
+LOCATION:경북 영천
+DESCRIPTION:종목: 하프, 10km, 5km\n🍁 가을시즌\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c49cf927-9dad-434e-99dc-042fce6f4b25
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🏃 영라둘길 나이트워크
+LOCATION:인천 영라둘길
+DESCRIPTION:종목: 66km, 30km, 20km, 5km\n🌙 야간걷기\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d55804-ff5a-4a5f-9ab8-666adf7addee
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏃 천안일거리 향한령울트라마라톤
+LOCATION:충남 천안
+DESCRIPTION:종목: 100km, 60km\n울트라\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:032b2140-b627-445c-b6b4-1c9bcde06263
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:🏃 청주생명수도청호마라톤
+LOCATION:충북 청주
+DESCRIPTION:종목: 풀, 하프, 10km, 5km\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:675b4b83-d55d-45dc-9616-967bf4b17ffa
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏃 한국국제걷기대회
+LOCATION:서울
+DESCRIPTION:종목: 42km, 25km, 10km, 5km\n걷기대회\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f3b0769c-f0cc-4b2d-853e-f67cad425062
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🏃 2026 JTBC 마라톤
+LOCATION:서울
+DESCRIPTION:종목: 풀, 10km\n⭐ 가을 최대 마라톤\n\n🔔 접수 시작 10분 전 알림 설정 권장!
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 7일 전! 접수 확인하세요
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:마라톤 대회 내일! 준비물 체크하세요
+END:VALARM
+END:VEVENT
+END:VCALENDAR

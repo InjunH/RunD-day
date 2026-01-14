@@ -4,6 +4,7 @@ import { MARATHON_DATA } from './constants';
 import { MarathonEvent, FilterState } from './types';
 import MarathonCard from './components/MarathonCard';
 import FilterBar from './components/FilterBar';
+import CalendarButton from './components/CalendarButton';
 import { Activity, Heart, CalendarDays, MousePointer2, Zap, ArrowRight, Gauge } from 'lucide-react';
 
 const App: React.FC = () => {
@@ -223,6 +224,9 @@ const App: React.FC = () => {
           </p>
         </div>
       </footer>
+
+      {/* Floating Calendar Button */}
+      <CalendarButton />
     </div>
   );
 };
