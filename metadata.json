@@ -1,0 +1,5 @@
+{
+  "name": "마라톤 광클 방지기 (Marathon Alert)",
+  "description": "2026년 국내 마라톤 대회 일정을 한눈에 파악하고, D-day 카운트다운과 신청 바로가기를 제공하는 러너 전용 플랫폼입니다.",
+  "requestFramePermissions": []
+}
