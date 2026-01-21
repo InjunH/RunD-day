@@ -12,6 +12,18 @@ export interface MarathonEvent {
   tags: string[];
   isPopular?: boolean;
   notes?: string;
+
+  // Extended fields for detail modal
+  organizer?: string;              // 주최자
+  registrationStart?: string;      // 등록 시작일 (ISO 8601)
+  registrationEnd?: string;        // 등록 마감일
+  registrationStatus?: string;     // "접수중", "마감 D-20", "마감", "등록전"
+  price?: {
+    currency: string;              // "KRW", "USD"
+    amount: number;                // 40000
+    description?: string;          // "얼리버드 할인"
+  };
+  imageUrl?: string;               // 대회 대표 이미지 URL
 }
 
 export interface FilterState {

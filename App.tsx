@@ -1,11 +1,13 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
 import { MARATHON_DATA } from './constants';
-import { FilterState } from './types';
+import { FilterState, MarathonEvent } from './types';
 import { useMarathons } from './hooks/useMarathons';
 import MarathonCard from './components/MarathonCard';
 import FilterBar from './components/FilterBar';
 import CalendarButton from './components/CalendarButton';
+import MarathonDetailModal from './components/MarathonDetailModal';
+import { generateICS, downloadICS, generateFilename } from './utils/icsGenerator';
 import { Heart, Zap, ArrowRight, Gauge, Loader2, RefreshCw, AlertCircle } from 'lucide-react';
 
 const App: React.FC = () => {
@@ -28,6 +30,10 @@ const App: React.FC = () => {
     searchQuery: '',
   });
 
+  // 모달 상태 관리
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedEvent, setSelectedEvent] = useState<MarathonEvent | null>(null);
+
   useEffect(() => {
     localStorage.setItem('marathon-favorites', JSON.stringify(favorites));
   }, [favorites]);
@@ -46,6 +52,23 @@ const App: React.FC = () => {
       countries: [],
       searchQuery: '',
     });
+  };
+
+  // 모달 핸들러
+  const handleCardClick = (event: MarathonEvent) => {
+    setSelectedEvent(event);
+    setIsModalOpen(true);
+  };
+
+  const handleModalClose = () => {
+    setIsModalOpen(false);
+    setSelectedEvent(null);
+  };
+
+  const handleAddToCalendar = (event: MarathonEvent) => {
+    const icsContent = generateICS([event]);
+    const filename = generateFilename('single', 1, event.name);
+    downloadICS(icsContent, filename);
   };
 
   const filteredMarathons = useMemo(() => {
@@ -187,11 +210,12 @@ const App: React.FC = () => {
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
               {favoriteMarathons.map(event => (
-                <MarathonCard 
-                  key={event.id} 
-                  event={event} 
+                <MarathonCard
+                  key={event.id}
+                  event={event}
                   isFavorite={favorites.includes(event.id)}
                   onToggleFavorite={toggleFavorite}
+                  onClick={() => handleCardClick(event)}
                 />
               ))}
             </div>
@@ -215,11 +239,12 @@ const App: React.FC = () => {
           {filteredMarathons.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
               {filteredMarathons.map(event => (
-                <MarathonCard 
-                  key={event.id} 
-                  event={event} 
+                <MarathonCard
+                  key={event.id}
+                  event={event}
                   isFavorite={favorites.includes(event.id)}
                   onToggleFavorite={toggleFavorite}
+                  onClick={() => handleCardClick(event)}
                 />
               ))}
             </div>
@@ -280,7 +305,22 @@ const App: React.FC = () => {
       </footer>
 
       {/* Floating Calendar Button */}
-      <CalendarButton />
+      <CalendarButton
+        allEvents={marathonData}
+        favoriteEvents={favoriteMarathons}
+      />
+
+      {/* Marathon Detail Modal */}
+      {selectedEvent && (
+        <MarathonDetailModal
+          event={selectedEvent}
+          isOpen={isModalOpen}
+          onClose={handleModalClose}
+          isFavorite={favorites.includes(selectedEvent.id)}
+          onToggleFavorite={toggleFavorite}
+          onAddToCalendar={handleAddToCalendar}
+        />
+      )}
     </div>
   );
 };

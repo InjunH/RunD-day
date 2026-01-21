@@ -7,9 +7,10 @@ interface MarathonCardProps {
   event: MarathonEvent;
   isFavorite: boolean;
   onToggleFavorite: (id: string) => void;
+  onClick?: () => void;
 }
 
-const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggleFavorite }) => {
+const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggleFavorite, onClick }) => {
   const eventDate = new Date(event.date);
   const today = new Date();
   const diffTime = eventDate.getTime() - today.getTime();
@@ -32,7 +33,10 @@ const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggle
   };
 
   return (
-    <div className={`group relative bg-slate-800 border-2 rounded-2xl overflow-hidden transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/20 ${event.isPopular ? 'border-blue-500' : 'border-slate-700'}`}>
+    <div
+      onClick={onClick}
+      className={`group relative bg-slate-800 border-2 rounded-2xl overflow-hidden transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/20 ${event.isPopular ? 'border-blue-500' : 'border-slate-700'} ${onClick ? 'cursor-pointer' : ''}`}
+    >
       {/* Decorative Race Line */}
       <div className={`absolute top-0 left-0 w-full h-1.5 ${event.isPopular ? 'bg-gradient-to-r from-blue-500 to-cyan-400' : 'bg-slate-600'}`}></div>
       
@@ -51,8 +55,11 @@ const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggle
             </div>
             <div className="h-0.5 w-8 bg-blue-500 mt-1"></div>
           </div>
-          <button 
-            onClick={() => onToggleFavorite(event.id)}
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onToggleFavorite(event.id);
+            }}
             className={`p-2.5 rounded-xl transition-all ${isFavorite ? 'text-pink-500 bg-pink-500/10' : 'text-slate-500 bg-slate-700 hover:text-slate-300'}`}
           >
             <Heart size={22} fill={isFavorite ? 'currentColor' : 'none'} />
@@ -92,8 +99,11 @@ const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggle
           ))}
         </div>
 
-        <button 
-          onClick={() => event.registrationUrl ? window.open(event.registrationUrl, '_blank') : alert('정보 준비 중입니다.')}
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            event.registrationUrl ? window.open(event.registrationUrl, '_blank') : alert('정보 준비 중입니다.');
+          }}
           className={`group/btn w-full py-3.5 rounded-xl font-black text-sm uppercase italic tracking-wider flex items-center justify-center gap-2 transition-all active:scale-95 ${event.registrationUrl ? 'bg-lime-400 text-slate-900 hover:bg-lime-300' : 'bg-slate-700 text-slate-500 cursor-not-allowed'}`}
         >
           {event.registrationUrl ? (

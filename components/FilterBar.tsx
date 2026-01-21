@@ -94,7 +94,10 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
                      {MONTHS.map(m => (
                        <button
                          key={m}
-                         onClick={() => toggleMonth(m)}
+                         onClick={() => {
+                           toggleMonth(m);
+                           setOpenDropdown(null);
+                         }}
                          className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.months.includes(m) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
                        >
                          {m}월
@@ -117,7 +120,10 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
                      {REGIONS.map(r => (
                        <button
                          key={r}
-                         onClick={() => toggleRegion(r)}
+                         onClick={() => {
+                           toggleRegion(r);
+                           setOpenDropdown(null);
+                         }}
                          className={`py-2 text-[11px] rounded-lg font-bold transition-all ${filters.regions.includes(r) ? 'bg-blue-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
                        >
                          {r}
@@ -127,28 +133,7 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
                 )}
              </div>
 
-             <div className="relative" ref={countryRef}>
-                <button
-                  onClick={() => setOpenDropdown(openDropdown === 'country' ? null : 'country')}
-                  className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700"
-                >
-                  COUNTRY
-                  <ChevronDown size={14} className={`text-slate-500 transition-transform ${openDropdown === 'country' ? 'rotate-180' : ''}`} />
-                </button>
-                {openDropdown === 'country' && (
-                  <div className="absolute top-full left-0 mt-2 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 flex gap-2 z-50 animate-in fade-in slide-in-from-top-2 duration-200">
-                     {COUNTRIES.map(c => (
-                       <button
-                         key={c}
-                         onClick={() => toggleCountry(c)}
-                         className={`py-2 px-4 text-[11px] rounded-lg font-bold transition-all ${filters.countries.includes(c) ? 'bg-purple-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
-                       >
-                         {c}
-                       </button>
-                     ))}
-                  </div>
-                )}
-             </div>
+             
 
              <button 
                onClick={onReset}
