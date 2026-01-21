@@ -1,13 +1,20 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
 import { MARATHON_DATA } from './constants';
-import { MarathonEvent, FilterState } from './types';
+import { FilterState } from './types';
+import { useMarathons } from './hooks/useMarathons';
 import MarathonCard from './components/MarathonCard';
 import FilterBar from './components/FilterBar';
 import CalendarButton from './components/CalendarButton';
-import { Activity, Heart, CalendarDays, MousePointer2, Zap, ArrowRight, Gauge } from 'lucide-react';
+import { Heart, Zap, ArrowRight, Gauge, Loader2, RefreshCw, AlertCircle } from 'lucide-react';
 
 const App: React.FC = () => {
+  // 마라톤 데이터 로딩 (JSON 파일 우선, 실패 시 정적 데이터 fallback)
+  const { events: dynamicEvents, isLoading, error, refetch, lastUpdated } = useMarathons();
+
+  // 데이터 소스: 동적 데이터 우선, 실패 시 정적 데이터 사용
+  const marathonData = dynamicEvents.length > 0 ? dynamicEvents : MARATHON_DATA;
+
   const [favorites, setFavorites] = useState<string[]>(() => {
     const saved = localStorage.getItem('marathon-favorites');
     return saved ? JSON.parse(saved) : [];
@@ -40,7 +47,7 @@ const App: React.FC = () => {
   };
 
   const filteredMarathons = useMemo(() => {
-    return MARATHON_DATA.filter(m => {
+    return marathonData.filter(m => {
       const month = new Date(m.date).getMonth() + 1;
       const matchMonth = filters.months.length === 0 || filters.months.includes(month);
       const matchRegion = filters.regions.length === 0 || filters.regions.includes(m.region);
@@ -59,13 +66,13 @@ const App: React.FC = () => {
 
       return matchMonth && matchRegion && matchDistance && matchSearch;
     }).sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-  }, [filters]);
+  }, [filters, marathonData]);
 
   const favoriteMarathons = useMemo(() => {
-    return MARATHON_DATA
+    return marathonData
       .filter(m => favorites.includes(m.id))
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-  }, [favorites]);
+  }, [favorites, marathonData]);
 
   return (
     <div className="min-h-screen pb-20 bg-slate-950">
@@ -102,7 +109,7 @@ const App: React.FC = () => {
             
             <div className="flex gap-4">
               <div className="bg-slate-900 p-4 rounded-2xl border border-slate-800 text-center min-w-[100px]">
-                <div className="text-2xl font-black text-white italic">{MARATHON_DATA.length}</div>
+                <div className="text-2xl font-black text-white italic">{marathonData.length}</div>
                 <div className="text-[10px] text-slate-500 font-bold uppercase tracking-widest mt-1">Events</div>
               </div>
               <div className="bg-slate-900 p-4 rounded-2xl border border-slate-800 text-center min-w-[100px]">
@@ -113,6 +120,32 @@ const App: React.FC = () => {
           </div>
         </div>
       </header>
+
+      {/* Data Source Indicator */}
+      {isLoading ? (
+        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center gap-2 text-slate-400">
+          <Loader2 className="animate-spin" size={16} />
+          <span className="text-sm">데이터 로딩 중...</span>
+        </div>
+      ) : error && dynamicEvents.length === 0 ? (
+        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center gap-2 text-amber-400">
+          <AlertCircle size={16} />
+          <span className="text-sm">정적 데이터 사용 중 (자동 업데이트 실패)</span>
+        </div>
+      ) : lastUpdated && dynamicEvents.length > 0 ? (
+        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+          <div className="flex items-center gap-2 text-slate-500">
+            <span className="text-xs">최근 업데이트: {lastUpdated.toLocaleDateString('ko-KR')}</span>
+          </div>
+          <button
+            onClick={refetch}
+            className="flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+          >
+            <RefreshCw size={12} />
+            새로고침
+          </button>
+        </div>
+      ) : null}
 
       <FilterBar 
         filters={filters} 

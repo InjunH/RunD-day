@@ -1,0 +1,22 @@
+{
+  "lastRun": "2026-01-21T02:38:40.917Z",
+  "nextScheduledRun": "2026-01-21T21:00:00.000Z",
+  "sources": [
+    {
+      "name": "gorunning",
+      "status": "success",
+      "itemCount": 142,
+      "lastUpdated": "2026-01-21T02:38:38.709Z"
+    },
+    {
+      "name": "aims",
+      "status": "success",
+      "itemCount": 371,
+      "lastUpdated": "2026-01-21T02:38:40.853Z"
+    }
+  ],
+  "totalEvents": 501,
+  "krEvents": 146,
+  "intlEvents": 355,
+  "version": "1.0.0"
+}

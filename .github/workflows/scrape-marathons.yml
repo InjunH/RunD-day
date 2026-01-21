@@ -1,0 +1,96 @@
+# 마라톤 데이터 스크래핑 자동화 워크플로우
+# 매일 오전 6시(KST)에 실행하여 최신 마라톤 일정을 수집
+
+name: Scrape Marathon Data
+
+on:
+  schedule:
+    # 매일 오전 6시 KST (UTC 21:00 전날)
+    - cron: '0 21 * * *'
+  workflow_dispatch: # 수동 실행 허용
+    inputs:
+      debug:
+        description: '디버그 모드 활성화'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: npx tsx scripts/scrapers/index.ts
+        env:
+          DEBUG: ${{ inputs.debug == 'true' && 'true' || 'false' }}
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet public/data/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # 변경된 파일 스테이징
+          git add public/data/
+
+          # 커밋 메시지에 날짜와 이벤트 수 포함
+          EVENT_COUNT=$(jq '. | length' public/data/marathons.json 2>/dev/null || echo "0")
+          COMMIT_MSG="chore: update marathon data (${EVENT_COUNT} events) - $(date -u +%Y-%m-%d)"
+
+          git commit -m "$COMMIT_MSG"
+          git push
+
+      - name: Upload artifacts (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-logs
+          path: |
+            public/data/metadata.json
+          retention-days: 7
+
+      - name: Summary
+        run: |
+          echo "## 스크래핑 결과" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "public/data/metadata.json" ]; then
+            TOTAL=$(jq '.totalEvents' public/data/metadata.json)
+            KR=$(jq '.krEvents' public/data/metadata.json)
+            INTL=$(jq '.intlEvents' public/data/metadata.json)
+            LAST_RUN=$(jq -r '.lastRun' public/data/metadata.json)
+
+            echo "| 항목 | 값 |" >> $GITHUB_STEP_SUMMARY
+            echo "|------|------|" >> $GITHUB_STEP_SUMMARY
+            echo "| 총 이벤트 | ${TOTAL} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 국내 대회 | ${KR} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 해외 대회 | ${INTL} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 실행 시간 | ${LAST_RUN} |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ 메타데이터 파일을 찾을 수 없습니다." >> $GITHUB_STEP_SUMMARY
+          fi
