@@ -43,6 +43,7 @@ export const MARATHON_DATA: MarathonEvent[] = [
   { id: '34', name: '2026 JTBC 마라톤', date: '2026-11-01', region: '서울', locationDetail: '상암 → 잠실', distances: ['풀', '10km'], registrationUrl: 'https://jtbcmarathon.joins.com', tags: ['인기대회', '메이저', '가을의전설'], isPopular: true },
 ];
 
-export const REGIONS = ['서울', '경기', '인천', '충남', '충북', '대전', '경북', '경남', '대구', '부산', '울산', '전북', '전남', '광주', '강원', '제주'];
+export const REGIONS = ['서울', '경기', '인천', '충남', '충북', '대전', '경북', '경남', '대구', '부산', '울산', '전북', '전남', '광주', '강원', '제주', '해외'];
 export const DISTANCES = ['풀', '하프', '10km', '5km', '울트라', '기타'];
 export const MONTHS = Array.from({ length: 12 }, (_, i) => i + 1);
+export const COUNTRIES = ['국내', '해외'];

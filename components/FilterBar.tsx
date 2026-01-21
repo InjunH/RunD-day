@@ -1,6 +1,6 @@
 
 import React, { useState, useRef, useEffect } from 'react';
-import { REGIONS, DISTANCES, MONTHS } from '../constants';
+import { REGIONS, DISTANCES, MONTHS, COUNTRIES } from '../constants';
 import { FilterState } from '../types';
 import { Search, RotateCcw, ChevronDown, Filter } from 'lucide-react';
 
@@ -11,15 +11,17 @@ interface FilterBarProps {
 }
 
 const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) => {
-  const [openDropdown, setOpenDropdown] = useState<'month' | 'region' | null>(null);
+  const [openDropdown, setOpenDropdown] = useState<'month' | 'region' | 'country' | null>(null);
   const monthRef = useRef<HTMLDivElement>(null);
   const regionRef = useRef<HTMLDivElement>(null);
+  const countryRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (
         monthRef.current && !monthRef.current.contains(event.target as Node) &&
-        regionRef.current && !regionRef.current.contains(event.target as Node)
+        regionRef.current && !regionRef.current.contains(event.target as Node) &&
+        countryRef.current && !countryRef.current.contains(event.target as Node)
       ) {
         setOpenDropdown(null);
       }
@@ -46,6 +48,13 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
     setFilters(prev => ({
       ...prev,
       distances: prev.distances.includes(d) ? prev.distances.filter(x => x !== d) : [...prev.distances, d]
+    }));
+  };
+
+  const toggleCountry = (c: string) => {
+    setFilters(prev => ({
+      ...prev,
+      countries: prev.countries.includes(c) ? prev.countries.filter(x => x !== c) : [...prev.countries, c]
     }));
   };
 
@@ -118,6 +127,29 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
                 )}
              </div>
 
+             <div className="relative" ref={countryRef}>
+                <button
+                  onClick={() => setOpenDropdown(openDropdown === 'country' ? null : 'country')}
+                  className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-slate-300 transition-colors border border-slate-700"
+                >
+                  COUNTRY
+                  <ChevronDown size={14} className={`text-slate-500 transition-transform ${openDropdown === 'country' ? 'rotate-180' : ''}`} />
+                </button>
+                {openDropdown === 'country' && (
+                  <div className="absolute top-full left-0 mt-2 bg-slate-800 border border-slate-700 rounded-2xl shadow-2xl p-4 flex gap-2 z-50 animate-in fade-in slide-in-from-top-2 duration-200">
+                     {COUNTRIES.map(c => (
+                       <button
+                         key={c}
+                         onClick={() => toggleCountry(c)}
+                         className={`py-2 px-4 text-[11px] rounded-lg font-bold transition-all ${filters.countries.includes(c) ? 'bg-purple-600 text-white' : 'hover:bg-slate-700 text-slate-400'}`}
+                       >
+                         {c}
+                       </button>
+                     ))}
+                  </div>
+                )}
+             </div>
+
              <button 
                onClick={onReset}
                className="flex items-center gap-2 px-4 py-2 bg-slate-900 border border-slate-800 hover:bg-slate-800 rounded-xl text-xs font-bold text-slate-500 transition-colors"
@@ -133,6 +165,9 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters, onReset }) =
             ))}
             {filters.regions.length > 0 && filters.regions.map(r => (
               <span key={r} className="bg-lime-900/40 text-lime-400 border border-lime-800/50 px-3 py-1 rounded-lg text-[10px] font-black italic">{r}</span>
+            ))}
+            {filters.countries.length > 0 && filters.countries.map(c => (
+              <span key={c} className="bg-purple-900/40 text-purple-400 border border-purple-800/50 px-3 py-1 rounded-lg text-[10px] font-black italic">{c}</span>
             ))}
           </div>
         </div>

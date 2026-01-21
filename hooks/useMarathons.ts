@@ -108,14 +108,23 @@ function setCache(events: MarathonEvent[], metadata: MetadataResponse | null): v
  * API 응답을 프론트엔드 타입으로 변환
  */
 function transformEvent(apiEvent: MarathonAPIEvent): MarathonEvent {
+  // URL 정규화: http/https 프로토콜이 없으면 https:// 추가
+  let normalizedUrl = apiEvent.registrationUrl || '';
+  if (normalizedUrl && !normalizedUrl.startsWith('http://') && !normalizedUrl.startsWith('https://')) {
+    normalizedUrl = `https://${normalizedUrl}`;
+  }
+
+  // Region 매핑: country가 'INTL'이면 '해외'로 표시
+  const region = apiEvent.country === 'INTL' ? '해외' : (apiEvent.region || '기타');
+
   return {
     id: apiEvent.id,
     name: apiEvent.name,
     date: apiEvent.date,
-    region: apiEvent.region || '기타',
+    region,
     locationDetail: apiEvent.locationDetail || '',
     distances: apiEvent.distances,
-    registrationUrl: apiEvent.registrationUrl || '',
+    registrationUrl: normalizedUrl,
     tags: apiEvent.tags,
     isPopular: apiEvent.isPopular,
     notes: apiEvent.organizer ? `주최: ${apiEvent.organizer}` : undefined,

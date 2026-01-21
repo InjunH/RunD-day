@@ -24,6 +24,13 @@ const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggle
     return 'FINISH';
   };
 
+  // 거리 라벨 영문 변환
+  const formatDistance = (distance: string): string => {
+    if (distance === '풀') return 'Full';
+    if (distance === '하프') return 'Half';
+    return distance;
+  };
+
   return (
     <div className={`group relative bg-slate-800 border-2 rounded-2xl overflow-hidden transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/20 ${event.isPopular ? 'border-blue-500' : 'border-slate-700'}`}>
       {/* Decorative Race Line */}
@@ -70,7 +77,7 @@ const MarathonCard: React.FC<MarathonCardProps> = ({ event, isFavorite, onToggle
             <div className="flex gap-1.5 flex-wrap">
               {event.distances.map(d => (
                 <span key={d} className="bg-slate-700 text-slate-200 px-2 py-0.5 rounded text-[11px] font-bold border border-slate-600">
-                  {d}
+                  {formatDistance(d)}
                 </span>
               ))}
             </div>

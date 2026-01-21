@@ -24,6 +24,7 @@ const App: React.FC = () => {
     months: [],
     regions: [],
     distances: [],
+    countries: [],
     searchQuery: '',
   });
 
@@ -42,29 +43,49 @@ const App: React.FC = () => {
       months: [],
       regions: [],
       distances: [],
+      countries: [],
       searchQuery: '',
     });
   };
 
   const filteredMarathons = useMemo(() => {
     return marathonData.filter(m => {
+      // 1. 날짜 필터: 과거 이벤트 제외
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      const eventDate = new Date(m.date);
+      eventDate.setHours(0, 0, 0, 0);
+      if (eventDate < today) return false;
+
+      // 2. 월 필터
       const month = new Date(m.date).getMonth() + 1;
       const matchMonth = filters.months.length === 0 || filters.months.includes(month);
+
+      // 3. 지역 필터
       const matchRegion = filters.regions.length === 0 || filters.regions.includes(m.region);
-      
+
+      // 4. 국가 필터 (국내/해외)
+      const matchCountry = filters.countries.length === 0 || filters.countries.some(fc => {
+        if (fc === '국내') return m.region !== '해외';
+        if (fc === '해외') return m.region === '해외';
+        return true;
+      });
+
+      // 5. 거리 필터
       const matchDistance = filters.distances.length === 0 || filters.distances.some(fd => {
         if (fd === '울트라') return m.distances.some(d => d.includes('km') && parseInt(d) >= 50);
         if (fd === '기타') return m.distances.some(d => !['풀', '하프', '10km', '5km'].includes(d) && !d.includes('km'));
         return m.distances.includes(fd);
       });
 
-      const matchSearch = filters.searchQuery === '' || 
+      // 6. 검색 필터
+      const matchSearch = filters.searchQuery === '' ||
         m.name.toLowerCase().includes(filters.searchQuery.toLowerCase()) ||
         m.region.toLowerCase().includes(filters.searchQuery.toLowerCase()) ||
         m.locationDetail.toLowerCase().includes(filters.searchQuery.toLowerCase()) ||
         m.tags.some(t => t.toLowerCase().includes(filters.searchQuery.toLowerCase()));
 
-      return matchMonth && matchRegion && matchDistance && matchSearch;
+      return matchMonth && matchRegion && matchCountry && matchDistance && matchSearch;
     }).sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
   }, [filters, marathonData]);
 

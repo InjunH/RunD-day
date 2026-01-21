@@ -18,5 +18,6 @@ export interface FilterState {
   months: number[];
   regions: string[];
   distances: string[];
+  countries: string[];
   searchQuery: string;
 }
