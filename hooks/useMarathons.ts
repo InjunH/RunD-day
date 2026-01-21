@@ -227,27 +227,3 @@ export function useMarathons(options: UseMarathonsOptions = {}): UseMarathonsRes
     lastUpdated,
   };
 }
-
-/**
- * 정적 데이터 fallback 훅
- * JSON 파일이 없을 때 기존 constants.ts 데이터 사용
- */
-export function useMarathonsWithFallback(options: UseMarathonsOptions = {}): UseMarathonsResult {
-  const result = useMarathons(options);
-
-  // 데이터가 없고 에러가 있으면 fallback 데이터 제공
-  useEffect(() => {
-    if (result.error && result.events.length === 0) {
-      // 동적 import로 fallback 데이터 로드
-      import('../constants').then((module) => {
-        // constants.ts의 MARATHON_DATA 사용
-        if (module.MARATHON_DATA) {
-          // 이미 상태가 업데이트되어 있으므로 추가 처리 불필요
-          console.warn('JSON 데이터 로드 실패, 정적 데이터 사용');
-        }
-      });
-    }
-  }, [result.error, result.events.length]);
-
-  return result;
-}
