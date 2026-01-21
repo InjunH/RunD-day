@@ -5,7 +5,6 @@
 
 import { chromium, type Page } from 'playwright';
 import { createLogger } from '../utils/logger';
-import { parseDate } from '../utils/http';
 import type {
   Scraper,
   ScraperResult,
@@ -18,11 +17,12 @@ import { KR_REGIONS } from '../types';
 const logger = createLogger('gorunning');
 
 interface GoRunningRaceRow {
-  date: string;
   name: string;
-  organizer: string;
-  location: string;
-  status: string;
+  distance: string; // 종목 (풀, 하프, 10km 등)
+  region: string; // 지역
+  location: string; // 장소
+  organizer: string; // 주최
+  status: string; // 등록상태
   link: string;
 }
 
@@ -108,42 +108,47 @@ export class GoRunningScraper implements Scraper {
       const results: GoRunningRaceRow[] = [];
 
       // 테이블 형식 시도
+      // 실제 gorunning.kr 테이블 구조:
+      // [0]: 순번, [1]: 대회명, [2]: 종목, [3]: 지역, [4]: 장소, [5]: 주최, [6]: 등록상태
       const tableRows = document.querySelectorAll('table tbody tr');
       if (tableRows.length > 0) {
         tableRows.forEach((row) => {
           const cells = row.querySelectorAll('td');
-          if (cells.length >= 4) {
-            results.push({
-              date: cells[0]?.textContent?.trim() || '',
-              name: cells[1]?.textContent?.trim() || '',
-              organizer: cells[2]?.textContent?.trim() || '',
-              location: cells[3]?.textContent?.trim() || '',
-              status: cells[4]?.textContent?.trim() || '',
-              link: cells[1]?.querySelector('a')?.href || '',
-            });
+          if (cells.length >= 6) {
+            const name = cells[1]?.textContent?.trim() || '';
+            if (name) {
+              results.push({
+                name,
+                distance: cells[2]?.textContent?.trim() || '',
+                region: cells[3]?.textContent?.trim() || '',
+                location: cells[4]?.textContent?.trim() || '',
+                organizer: cells[5]?.textContent?.trim() || '',
+                status: cells[6]?.textContent?.trim() || '',
+                link: cells[1]?.querySelector('a')?.href || '',
+              });
+            }
           }
         });
         return results;
       }
 
-      // 카드/리스트 형식 시도
+      // 카드/리스트 형식 시도 (fallback)
       const cards = document.querySelectorAll('[class*="race"], [class*="event"], [class*="card"]');
       cards.forEach((card) => {
         const name =
           card.querySelector('[class*="title"], h2, h3')?.textContent?.trim() || '';
-        const date =
-          card.querySelector('[class*="date"], time')?.textContent?.trim() || '';
         const location =
           card.querySelector('[class*="location"], [class*="place"]')?.textContent?.trim() ||
           '';
         const link = card.querySelector('a')?.href || '';
 
-        if (name && date) {
+        if (name) {
           results.push({
-            date,
             name,
-            organizer: '',
+            distance: '',
+            region: '',
             location,
+            organizer: '',
             status: '',
             link,
           });
@@ -153,22 +158,25 @@ export class GoRunningScraper implements Scraper {
       return results;
     });
 
-    // 이름이 있는 레이스만 필터링 (날짜는 없어도 이름에서 추출 가능)
+    // 이름이 있는 레이스만 필터링
     return races.filter((r: GoRunningRaceRow) => r.name);
   }
 
   private transformToRaw(raw: GoRunningRaceRow): RawMarathonEvent {
+    // 테이블에 날짜 열이 없으므로 대회명에서 추출
+    const date = this.extractDateFromName(raw.name);
+
     return {
       source: this.name,
-      sourceId: this.generateId(raw),
+      sourceId: this.generateId(raw, date),
       name: raw.name,
-      date: this.parseRaceDate(raw.date, raw.name),
+      date,
       location: {
         country: 'KR',
-        region: this.extractRegion(raw.location),
-        detail: raw.location,
+        region: this.extractRegionFromRaw(raw),
+        detail: raw.location || raw.region,
       },
-      distances: this.extractDistances(raw.name),
+      distances: this.extractDistancesFromRaw(raw),
       registrationUrl: raw.link || undefined,
       organizer: raw.organizer || undefined,
       registration: {
@@ -179,43 +187,55 @@ export class GoRunningScraper implements Scraper {
     };
   }
 
-  private generateId(raw: GoRunningRaceRow): string {
+  private generateId(raw: GoRunningRaceRow, date: string): string {
     // 이름과 날짜로 고유 ID 생성
     const normalized = raw.name
       .replace(/[^a-zA-Z0-9가-힣]/g, '-')
       .replace(/-+/g, '-')
       .toLowerCase();
-    const dateStr = raw.date.replace(/[^0-9]/g, '');
+    const dateStr = date.replace(/[^0-9]/g, '');
     return `${normalized}-${dateStr}`.slice(0, 100);
   }
 
-  private parseRaceDate(dateStr: string, eventName?: string): string {
-    // 날짜 문자열이 비어있거나 유효하지 않은 경우 이벤트 이름에서 날짜 추출 시도
-    if (!dateStr || dateStr.trim() === '') {
-      return this.extractDateFromName(eventName || '');
+  private extractRegionFromRaw(raw: GoRunningRaceRow): KRRegion | '기타' {
+    // 먼저 region 필드 확인
+    if (raw.region) {
+      for (const region of KR_REGIONS) {
+        if (raw.region.includes(region)) {
+          return region;
+        }
+      }
+    }
+    // fallback: location에서 추출
+    return this.extractRegion(raw.location);
+  }
+
+  private extractDistancesFromRaw(raw: GoRunningRaceRow): string[] {
+    const distances: string[] = [];
+
+    // 먼저 distance 필드에서 추출 (종목 열)
+    if (raw.distance) {
+      const dist = raw.distance.toLowerCase();
+      if (dist.includes('풀') || dist.includes('full') || dist.includes('42')) {
+        distances.push('풀');
+      }
+      if (dist.includes('하프') || dist.includes('half') || dist.includes('21')) {
+        distances.push('하프');
+      }
+      if (dist.includes('10k') || dist.includes('10km')) {
+        distances.push('10km');
+      }
+      if (dist.includes('5k') || dist.includes('5km')) {
+        distances.push('5km');
+      }
     }
 
-    try {
-      return parseDate(dateStr);
-    } catch {
-      // 기본값: 현재 연도 + 추출된 월/일
-      const match = dateStr.match(/(\d{1,2})[./월](\d{1,2})/);
-      if (match) {
-        const year = new Date().getFullYear();
-        const month = match[1].padStart(2, '0');
-        const day = match[2].padStart(2, '0');
-        return `${year}-${month}-${day}`;
-      }
-
-      // 이벤트 이름에서 날짜 추출 시도
-      const nameDate = this.extractDateFromName(eventName || '');
-      if (nameDate !== this.getDefaultDate()) {
-        return nameDate;
-      }
-
-      logger.warn(`날짜 파싱 실패: "${dateStr}" (이벤트: ${eventName})`);
-      return this.getDefaultDate();
+    // distance 필드에서 추출 못했으면 이름에서 추출
+    if (distances.length === 0) {
+      return this.extractDistances(raw.name);
     }
+
+    return distances;
   }
 
   private extractDateFromName(name: string): string {

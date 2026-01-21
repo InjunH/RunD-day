@@ -1,2629 +1,5 @@
 [
   {
-    "id": "gorunning-2026-전마협-제주-4full-마라톤-1",
-    "name": "2026 전마협 제주 4Full 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "제주",
-    "locationDetail": "제주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/732/",
-    "organizer": "풀",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-똥바람-알통구보대회-1",
-    "name": "2026 똥바람 알통구보대회",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/875/",
-    "organizer": "6.32km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-전마협-제주-10km-마라톤-1",
-    "name": "2026 전마협 제주 10km 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "제주",
-    "locationDetail": "제주",
-    "distances": [
-      "10km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/756/",
-    "organizer": "10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-화성-궁평항-동계-훈련-마라톤-1",
-    "name": "2026 화성 궁평항 동계 훈련 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/844/",
-    "organizer": "32km\n                            \n                            하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-네버스탑-1-000k-돌파-팀마라톤-1",
-    "name": "2026 네버스탑: 1,000K 돌파 팀마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "기타",
-    "locationDetail": "기타",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/898/",
-    "organizer": "000km 팀마라톤\n                            \n                            000km 팀마라톤",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제3회-산들소리향기-마라톤-1",
-    "name": "제3회 산들소리향기 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/764/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-평창-대관령-알몸-마라톤-1",
-    "name": "2026 평창 대관령 알몸 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/841/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-희망드림-제23회-동계-국제-마라톤-1",
-    "name": "희망드림 제23회 동계 국제 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/698/",
-    "organizer": "32.195km\n                            \n                            하프\n                            \n                            10km\n                            \n                            10km커플\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-경기수원국제하프마라톤-1",
-    "name": "2026 경기수원국제하프마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/781/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-보스톤-영웅-마라톤-1",
-    "name": "2026 보스톤 영웅 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/778/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-구미-박정희-마라톤-1",
-    "name": "2026 구미 박정희 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/780/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제4회-코리아오픈-레이스-1",
-    "name": "제4회 코리아오픈 레이스",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/839/",
-    "organizer": "하프\n                            \n                            하프마니아\n                            \n                            10km\n                            \n                            10km마니아\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-고양특례시-하프마라톤-1",
-    "name": "2026 고양특례시 하프마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/744/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제20회-창녕부곡-온천마라톤-1",
-    "name": "제20회 창녕부곡 온천마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/805/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-서울마라톤-1",
-    "name": "2026 서울마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/697/",
-    "organizer": "풀\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": true,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-남해트레일레이스-1",
-    "name": "2026 남해트레일레이스",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/908/",
-    "organizer": "40K",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-서울-k-마라톤-1",
-    "name": "2026 서울 K-마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/809/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-봄바람-유러닝페스타-1",
-    "name": "2026 봄바람 유러닝페스타",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/859/",
-    "organizer": "하프\n                            \n                            하프 7인 1조 단체전\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제14회-김포한강마라톤-1",
-    "name": "제14회 김포한강마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/910/",
-    "organizer": "풀\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-장수트레일레이스-spring-1",
-    "name": "2026 장수트레일레이스 Spring",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/870/",
-    "organizer": "70K\n                            \n                            38K-P\n                            \n                            20K\n                            \n                            5K",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제25회-제주-국제울트라마라톤-1",
-    "name": "제25회 제주 국제울트라마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "제주",
-    "locationDetail": "제주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/884/",
-    "organizer": "200km\n                            \n                            100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회",
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-군산새만금마라톤-1",
-    "name": "2026 군산새만금마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/871/",
-    "organizer": "풀\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-성남런페스티벌-1",
-    "name": "2026 성남런페스티벌",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/896/",
-    "organizer": "하프\n                            \n                            15km\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제19회-영남일보-국제-하프마라톤-1",
-    "name": "제19회 영남일보 국제 하프마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "대구",
-    "locationDetail": "대구",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/835/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제11회-서울트레일런-1",
-    "name": "제11회 서울트레일런",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/815/",
-    "organizer": "109km\n                            \n                            50km\n                            \n                            30km\n                            \n                            20km\n                            \n                            15km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제3회-아산신정호-트레일런100k-1",
-    "name": "제3회 아산신정호 트레일런100k",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "100km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/877/",
-    "organizer": "100km\n                            \n                            60km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-무등산트레일런-1",
-    "name": "제2회 무등산트레일런",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "광주",
-    "locationDetail": "광주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/854/",
-    "organizer": "51.8km\n                            \n                            35km\n                            \n                            15km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제17회-성지순례222km울트라마라톤-1",
-    "name": "제17회 성지순례222KM울트라마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/831/",
-    "organizer": "215km\n                            \n                            101km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제30회-삼척-황영조-국제-마라톤-1",
-    "name": "제30회 삼척 황영조 국제 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/842/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-서울하프마라톤-1",
-    "name": "2026 서울하프마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/783/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-불-수-사-도-북-trail-run-1",
-    "name": "제24회 불.수.사.도.북 Trail Run",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/710/",
-    "organizer": "풀\n                            \n                            13km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-busan-50k-1",
-    "name": "2026 BUSAN 50K",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "50km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/865/",
-    "organizer": "50K\n                            \n                            37K\n                            \n                            24K\n                            \n                            12K",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-소아암환우돕기-제23회-서울시민마라톤-1",
-    "name": "소아암환우돕기 제23회 서울시민마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/699/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km\n                            \n                            5km 걷기",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-옥스팜-트레일워커-1",
-    "name": "2026 옥스팜 트레일워커",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/829/",
-    "organizer": "100km\n                            \n                            50K\n                            \n                            25K",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제31회-바다의-날-마라톤-1",
-    "name": "제31회 바다의 날 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/889/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제37회-지리산-화대종주-1",
-    "name": "제37회 지리산 화대종주",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/765/",
-    "organizer": "48km\n                            \n                            40km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-삼삼트레일런-1",
-    "name": "2026 삼삼트레일런",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/840/",
-    "organizer": "33Km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-전마협-창단25주년기념-2026금산월드런마라톤-1",
-    "name": "전마협 창단25주년기념 2026금산월드런마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/862/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-남한산성-1222트레일러닝-1",
-    "name": "2026 남한산성 1222트레일러닝",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/746/",
-    "organizer": "15km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-희망드림-제23회-새벽강변-국제마라톤-1",
-    "name": "희망드림 제23회 새벽강변 국제마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/700/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km\n                            \n                            3km가족런",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제5회-무등산-무돌길완주대회-1",
-    "name": "제5회 무등산 무돌길완주대회",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "광주",
-    "locationDetail": "광주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/882/",
-    "organizer": "51.8km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제22회-영덕-해변-전국마라톤-1",
-    "name": "제22회 영덕 해변 전국마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/737/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-소백산-죽령트레일런-1",
-    "name": "2026 소백산 죽령트레일런",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/812/",
-    "organizer": "28km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제10회-노원구청장배-겸-제9회-회장배마라톤-1",
-    "name": "제10회 노원구청장배 겸 제9회 회장배마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/869/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-울릉도-국제-트레일러닝-1",
-    "name": "2026 울릉도 국제 트레일러닝",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/705/",
-    "organizer": "40km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회",
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제38회-지리산화대종주-trail-run-1",
-    "name": "제38회 지리산화대종주 Trail Run",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/817/",
-    "organizer": "48km\n                            \n                            40km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제14회설악산공룡능선climbathon-1",
-    "name": "제14회설악산공룡능선CLIMBATHON",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/802/",
-    "organizer": "27km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-청광종주trailrunning-1",
-    "name": "제24회 청광종주TRAILRUNNING",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/847/",
-    "organizer": "26km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-울진-금강송배-힐링마라톤-1",
-    "name": "2026 울진 금강송배 힐링마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/738/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-아산이순신-트레일-1",
-    "name": "제2회 아산이순신 트레일",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/901/",
-    "organizer": "60km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제20회-달서하프마라톤-1",
-    "name": "제20회 달서하프마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "대구",
-    "locationDetail": "대구",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/913/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제7회-천안삼거리-흥타령울트라마라톤-1",
-    "name": "제7회 천안삼거리 흥타령울트라마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/830/",
-    "organizer": "100km\n                            \n                            60km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-청원생명쌀대청호마라톤-1",
-    "name": "제24회 청원생명쌀대청호마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/848/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-아시아-오픈-마라톤-1",
-    "name": "2026 아시아 오픈 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/891/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-jtbc-마라톤-1",
-    "name": "2026 jtbc 마라톤",
-    "date": "2000-12-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/852/",
-    "organizer": "풀\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": true,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-한강-서울-하프-마라톤-2",
-    "name": "제2회 한강 서울 하프 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/762/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-인사이더런-w-2일간--2",
-    "name": "2026 인사이더런 W(2일간)",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/808/",
-    "organizer": "10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-전마협-별들의전쟁-꽃들의전쟁-클럽대전-2",
-    "name": "2026 전마협 별들의전쟁&꽃들의전쟁 클럽대전",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/813/",
-    "organizer": "20km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026전마협-청주-무심천-투데이-마라톤-토--2",
-    "name": "2026전마협 청주 무심천 투데이 마라톤(토)",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/703/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-대구마라톤-2",
-    "name": "2026 대구마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "대구",
-    "locationDetail": "대구",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/701/",
-    "organizer": "풀\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-just-run10-전국-10k-러닝-대회-2",
-    "name": "JUST RUN10 전국 10K 러닝 대회",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "10km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/858/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-run-your-way-half-2",
-    "name": "2026 Run your way HALF",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/874/",
-    "organizer": "하프",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-서울경기육상연합-하프-마라톤-2",
-    "name": "제2회 서울경기육상연합 하프 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/864/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-부천국제10km로드레이스-2",
-    "name": "2026 부천국제10km로드레이스",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "10km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/811/",
-    "organizer": "10km\n                            \n                            3.5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-내포마라톤-2",
-    "name": "2026 내포마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/887/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-영광-광풍-마라톤-2",
-    "name": "제2회 영광 광풍 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/734/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제23회-태화강-마라톤-2",
-    "name": "제23회 태화강 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "울산",
-    "locationDetail": "울산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/806/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-무주반딧불-하프마라톤-2",
-    "name": "2026 무주반딧불 하프마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/824/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제33회-경주벚꽃마라톤-2",
-    "name": "제33회 경주벚꽃마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/822/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제27회-이천-도자기-마라톤-2",
-    "name": "제27회 이천 도자기 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/788/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제15회-양천마라톤-2",
-    "name": "제15회 양천마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/789/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            10km커플런\n                            \n                            5km\n                            \n                            5km가족런",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제15회-mbc섬진강꽃길마라톤-2",
-    "name": "제15회 MBC섬진강꽃길마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/911/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제8회-오션뷰-기장바다마라톤-2",
-    "name": "제8회 오션뷰 기장바다마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/702/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            3km 슬로우조깅",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-통일기원-포항해변마라톤-2",
-    "name": "제24회 통일기원 포항해변마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/796/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제19회-대전-한밭울트라마라톤-2",
-    "name": "제19회 대전 한밭울트라마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "대전",
-    "locationDetail": "대전",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/827/",
-    "organizer": "100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-무의도구석구석-국제트레일런-2",
-    "name": "2026 무의도구석구석 국제트레일런",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/846/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회",
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제4회-서울한강울트라마라톤-2",
-    "name": "제4회 서울한강울트라마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/784/",
-    "organizer": "100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제13회-거제100k-2",
-    "name": "제13회 거제100K",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "100km"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/909/",
-    "organizer": "100km\n                            \n                            67K\n                            \n                            62K\n                            \n                            27K\n                            \n                            15K",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026년-독도수호를-위한-동호인마라톤-2",
-    "name": "2026년 독도수호를 위한 동호인마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/895/",
-    "organizer": "28km 혼성릴레이\n                            \n                            하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제9회한국-남한산성-trail-running-2",
-    "name": "제9회한국 남한산성 TRAIL RUNNING",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/800/",
-    "organizer": "15km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제12회-시각장애인과-함께하는-어울림-마라톤-2",
-    "name": "제12회 시각장애인과 함께하는 어울림 마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/892/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제8회안산인왕산북악산trailrun-2",
-    "name": "제8회안산인왕산북악산TRAILRUN",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/801/",
-    "organizer": "11km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제-2회-아산이순신-트레일-2",
-    "name": "제 2회 아산이순신 트레일",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/903/",
-    "organizer": "60km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-경포마라톤-2",
-    "name": "2026 경포마라톤",
-    "date": "2001-01-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/890/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-청춘릴레이-마라톤-3",
-    "name": "2026 청춘릴레이 마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/821/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026전마협-청주-무심천-투데이-마라톤-일--3",
-    "name": "2026전마협 청주 무심천 투데이 마라톤(일)",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/704/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제61회-광주일보-3-1절-전국마라톤-3",
-    "name": "제61회 광주일보 3.1절 전국마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/845/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제21회-부산-비치울트라-마라톤-대회-3",
-    "name": "제21회 부산 비치울트라 마라톤 대회",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/851/",
-    "organizer": "100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-성주참외-전국마라톤-3",
-    "name": "2026 성주참외 전국마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/793/",
-    "organizer": "30km\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-지리산봄꽃레이스-3",
-    "name": "2026 지리산봄꽃레이스",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/823/",
-    "organizer": "24km\n                            \n                            13km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제26회-인천국제하프마라톤-3",
-    "name": "제26회 인천국제하프마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "인천",
-    "locationDetail": "인천",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/832/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-제3회-구리시-걷기-트레일런-3",
-    "name": "2026 제3회 구리시 걷기&트레일런",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "경기",
-    "locationDetail": "경기",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/905/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-성북사랑-전국-마라톤-3",
-    "name": "2026 성북사랑 전국 마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/894/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-영암벚꽃마라톤-3",
-    "name": "2026 영암벚꽃마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/886/",
-    "organizer": "10km\n                            \n                            5km\n                            \n                            5km(걷기)",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-진주남강-마라톤-3",
-    "name": "2026 진주남강 마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/834/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제22회-청남대울트라-마라톤-3",
-    "name": "제22회 청남대울트라 마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/791/",
-    "organizer": "100km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제3회-해평-마라톤-3",
-    "name": "제3회 해평 마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/879/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제23회-호남마라톤-3",
-    "name": "제23회 호남마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "광주",
-    "locationDetail": "광주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/863/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-홍천트레일런-3",
-    "name": "제2회 홍천트레일런",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/873/",
-    "organizer": "30k\n                            \n                            21k\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "트레일런"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-백양산숲길건강달리기-3",
-    "name": "2026 백양산숲길건강달리기",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/904/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            6km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-제10회-포항철강마라톤-3",
-    "name": "2026 제10회 포항철강마라톤",
-    "date": "2001-02-28",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/867/",
-    "organizer": "10km\n                            \n                            5km\n                            \n                            5km 학생",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-고구려-마라톤-4",
-    "name": "2026 고구려 마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/807/",
-    "organizer": "풀\n                            \n                            32km\n                            \n                            하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-3-1절-107주년-기념-단축-마라톤-4",
-    "name": "3.1절 107주년 기념 단축 마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "인천",
-    "locationDetail": "인천",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/866/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-mbn-블루레이스-거제-4",
-    "name": "2026 MBN 블루레이스 거제",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/819/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            4km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-제6회-버킷런-4",
-    "name": "2026 제6회 버킷런",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/881/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-성우하이텍배-knn환경마라톤-4",
-    "name": "제24회 성우하이텍배 KNN환경마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/876/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-금강울트라마라톤-4",
-    "name": "2026 금강울트라마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "세종",
-    "locationDetail": "세종",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/880/",
-    "organizer": "100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제25회-합천벚꽃마라톤-4",
-    "name": "제25회 합천벚꽃마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/792/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-영주소백산마라톤-4",
-    "name": "2026 영주소백산마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/836/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-mbn-선셋마라톤-영종-4",
-    "name": "2026 MBN 선셋마라톤 영종",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "인천",
-    "locationDetail": "인천",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/838/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            3km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-green-step-2026-esg실천마라톤-4",
-    "name": "Green Step 2026 ESG실천마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/883/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-부안해변마라톤-4",
-    "name": "2026 부안해변마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/825/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제4회-아산-이순신-백의종군길-마라톤-4",
-    "name": "제4회 아산 이순신 백의종군길 마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "충남",
-    "locationDetail": "충남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/861/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            4km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-제23회-빛고을-울트라마라톤-4",
-    "name": "2026 제23회 빛고을 울트라마라톤",
-    "date": "2001-03-31",
-    "country": "KR",
-    "region": "광주",
-    "locationDetail": "광주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/878/",
-    "organizer": "100km\n                            \n                            50km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "울트라"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제9회-산불조심-한국서울마라톤-5",
-    "name": "제9회 산불조심 한국서울마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/708/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": true,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-머니투데이방송-삼일절-마라톤-5",
-    "name": "2026 머니투데이방송 삼일절 마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/767/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제16회-여의도-벚꽃-마라톤-5",
-    "name": "제16회 여의도 벚꽃 마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/853/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-입춘대길-제1회-춘천-소양강마라톤-5",
-    "name": "2026 입춘대길 제1회 춘천 소양강마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/888/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-정읍동학마라톤-5",
-    "name": "2026 정읍동학마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "전북",
-    "locationDetail": "전북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/893/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026년-안양천-벚꽃-마라톤-5",
-    "name": "2026년 안양천 벚꽃 마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/912/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제12회-나주영산강마라톤-5",
-    "name": "제12회 나주영산강마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/855/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제22회-창원야철마라톤-5",
-    "name": "제22회 창원야철마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/907/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제24회-울산커플마라톤-5",
-    "name": "제24회 울산커플마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "울산",
-    "locationDetail": "울산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/857/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제20회-반기문마라톤-5",
-    "name": "제20회 반기문마라톤",
-    "date": "2001-04-30",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/906/",
-    "organizer": "풀\n                            \n                            하프\n                            \n                            10km\n                            \n                            4.2km코스",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-챌린지-레이스-6",
-    "name": "2026 챌린지 레이스",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/777/",
-    "organizer": "풀\n                            \n                            32km\n                            \n                            하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-환경사랑부산-k-런-6",
-    "name": "2026 환경사랑부산 K-런",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "부산",
-    "locationDetail": "부산",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/849/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-전국민-러닝크루-패밀리-마라톤-6",
-    "name": "2026 전국민 러닝크루 패밀리 마라톤",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/868/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-산불조심-한국남산우정마라톤-6",
-    "name": "2026 산불조심 한국남산우정마라톤",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/707/",
-    "organizer": "16km\n                            \n                            8km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제33회-315마라톤-6",
-    "name": "제33회 315마라톤",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/837/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-서울봄꽃레이스-6",
-    "name": "2026 서울봄꽃레이스",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/897/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제20회-2026-단양팔경-걷기-및-마라톤-6",
-    "name": "제20회 2026 단양팔경 걷기 및 마라톤",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/843/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km\n                            \n                            3km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제2회-속리산-문장대-세조길-trail-running-6",
-    "name": "제2회 속리산 문장대 세조길 Trail Running",
-    "date": "2001-05-31",
-    "country": "KR",
-    "region": "충북",
-    "locationDetail": "충북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/709/",
-    "organizer": "13km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-제주mbc-국제평화마라톤-7",
-    "name": "2026 제주MBC 국제평화마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "제주",
-    "locationDetail": "제주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/826/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제13회-안중근-평화-마라톤-7",
-    "name": "제13회 안중근 평화 마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/872/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-예천군민-마스터즈-7",
-    "name": "2026 예천군민 마스터즈",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "경북",
-    "locationDetail": "경북",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/899/",
-    "organizer": "5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제3회-불패-마라톤-7",
-    "name": "제3회 불패 마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/885/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제20회-정남진장흥-전국마라톤-7",
-    "name": "제20회 정남진장흥 전국마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "전남",
-    "locationDetail": "전남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/856/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-튼튼이-마라톤-7",
-    "name": "2026 튼튼이 마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "서울",
-    "locationDetail": "서울",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/914/",
-    "organizer": "10km\n                            \n                            5km\n                            \n                            3km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제21회-세종특별자치시-전국복사꽃-마라톤-7",
-    "name": "제21회 세종특별자치시 전국복사꽃 마라톤",
-    "date": "2001-06-30",
-    "country": "KR",
-    "region": "세종",
-    "locationDetail": "세종",
-    "distances": [
-      "하프"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/900/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-엘리트x마스터즈2026제주mbc국제평화마라톤-8",
-    "name": "엘리트x마스터즈2026제주MBC국제평화마라톤",
-    "date": "2001-07-31",
-    "country": "KR",
-    "region": "제주",
-    "locationDetail": "제주",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/833/",
-    "organizer": "하프\n                            \n                            10km",
-    "registrationStatus": "unknown",
-    "tags": [
-      "국제대회"
-    ],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-2026-3-1절기념-제27회-건강달리기-8",
-    "name": "2026 3.1절기념 제27회 건강달리기",
-    "date": "2001-07-31",
-    "country": "KR",
-    "region": "강원",
-    "locationDetail": "강원",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/850/",
-    "organizer": "10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
-    "id": "gorunning-제22회-밀양아리랑마라톤-9",
-    "name": "제22회 밀양아리랑마라톤",
-    "date": "2001-08-31",
-    "country": "KR",
-    "region": "경남",
-    "locationDetail": "경남",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://gorunning.kr/races/706/",
-    "organizer": "하프\n                            \n                            10km\n                            \n                            5km",
-    "registrationStatus": "unknown",
-    "tags": [],
-    "source": "gorunning",
-    "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.854Z"
-  },
-  {
     "id": "aims-aims-worldrunning.org-6869",
     "name": "Daegu Marathon",
     "date": "2026-02-22",
@@ -2644,7 +20,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.855Z"
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7043",
@@ -2668,7 +44,65 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.855Z"
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제61회-광주일보-3-1절-전국마라톤-20260301",
+    "name": "제61회 광주일보 3.1절 전국마라톤",
+    "date": "2026-03-01",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "화순파크골프장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/845/",
+    "organizer": "광주일보, 전남문화, 아시아문",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-3-1절-107주년-기념-단축-마라톤-20260301",
+    "name": "3.1절 107주년 기념 단축 마라톤",
+    "date": "2026-03-01",
+    "country": "KR",
+    "region": "인천",
+    "locationDetail": "국립인천대학교",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/866/",
+    "organizer": "기호일보",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-3-1절기념-제27회-건강달리기-20260301",
+    "name": "2026 3.1절기념 제27회 건강달리기",
+    "date": "2026-03-01",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "강원일보사",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/850/",
+    "organizer": "강원일보사",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6727",
@@ -2691,7 +125,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.855Z"
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6937",
@@ -2714,6 +148,2706 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-01-21T02:38:40.856Z"
+    "lastUpdated": "2026-01-21T04:00:29.977Z"
+  },
+  {
+    "id": "gorunning-2026-전마협-제주-4full-마라톤-20261231",
+    "name": "2026 전마협 제주 4Full 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "제주",
+    "locationDetail": "제주종합경기장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/732/",
+    "organizer": "전국마라톤협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-똥바람-알통구보대회-20261231",
+    "name": "2026 똥바람 알통구보대회",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "철원 승일공원",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/875/",
+    "organizer": "(재)철원문화재단",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-전마협-제주-10km-마라톤-20261231",
+    "name": "2026 전마협 제주 10km 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "제주",
+    "locationDetail": "제주 서귀포시",
+    "distances": [
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/756/",
+    "organizer": "전국마라톤협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-제2회-한강-서울-하프-마라톤-20261231",
+    "name": "제2회 한강 서울 하프 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암 월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/762/",
+    "organizer": "사단법인 국민성공시대",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-화성-궁평항-동계-훈련-마라톤-20261231",
+    "name": "2026 화성 궁평항 동계 훈련 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "화성시 궁평항",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/844/",
+    "organizer": "기호일보",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-인사이더런-w-2일간--20261231",
+    "name": "2026 인사이더런 W(2일간)",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "킨텍스 제1전시관",
+    "distances": [
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/808/",
+    "organizer": "러너블",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-네버스탑-1-000k-돌파-팀마라톤-20261231",
+    "name": "2026 네버스탑: 1,000K 돌파 팀마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "전국",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/898/",
+    "organizer": "주식회사 컴포트",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-제3회-산들소리향기-마라톤-20261231",
+    "name": "제3회 산들소리향기 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암 월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/764/",
+    "organizer": "(사)한국위생물수건처리업중앙회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-전마협-별들의전쟁-꽃들의전쟁-클럽대전-20261231",
+    "name": "2026 전마협 별들의전쟁&꽃들의전쟁 클럽대전",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "금산인삼엑스포주차장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/813/",
+    "organizer": "전국마라톤협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-평창-대관령-알몸-마라톤-20261231",
+    "name": "2026 평창 대관령 알몸 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "대관령 눈꽃축제",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/841/",
+    "organizer": "대관령면체육회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-희망드림-제23회-동계-국제-마라톤-20261231",
+    "name": "희망드림 제23회 동계 국제 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "여의도 한강 물빛광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/698/",
+    "organizer": "(사)한국마라톤협회",
+    "registrationStatus": "closed",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026전마협-청주-무심천-투데이-마라톤-토--20261231",
+    "name": "2026전마협 청주 무심천 투데이 마라톤(토)",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "청주 무심천 롤러스케이트장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km",
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/703/",
+    "organizer": "전국마라톤협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.978Z"
+  },
+  {
+    "id": "gorunning-2026-청춘릴레이-마라톤-20261231",
+    "name": "2026 청춘릴레이 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/821/",
+    "organizer": "(사)재한다문화총연합회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-경기수원국제하프마라톤-20261231",
+    "name": "2026 경기수원국제하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "수원종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/781/",
+    "organizer": "경기신문",
+    "registrationStatus": "closed",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-대구마라톤-20261231",
+    "name": "2026 대구마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "대구",
+    "locationDetail": "대구스타디움",
+    "distances": [
+      "풀",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/701/",
+    "organizer": "대구시",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-고구려-마라톤-20261231",
+    "name": "2026 고구려 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "뚝섬한강공원 수변무대",
+    "distances": [
+      "풀",
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/807/",
+    "organizer": "러너블",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-제9회-산불조심-한국서울마라톤-20261231",
+    "name": "제9회 산불조심 한국서울마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "광평교",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/708/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": true,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-챌린지-레이스-20261231",
+    "name": "2026 챌린지 레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "여의나루역 이벤트 광장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/777/",
+    "organizer": "로드스포츠",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-제주mbc-국제평화마라톤-20261231",
+    "name": "2026 제주MBC 국제평화마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "제주",
+    "locationDetail": "한림종합운동장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/826/",
+    "organizer": "제주MBC",
+    "registrationStatus": "closed",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-엘리트x마스터즈2026제주mbc국제평화마라톤-20261231",
+    "name": "엘리트x마스터즈2026제주MBC국제평화마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "제주",
+    "locationDetail": "한림종합운동장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/833/",
+    "organizer": "한국실업육상연맹, 제주MBC",
+    "registrationStatus": "closed",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-제22회-밀양아리랑마라톤-20261231",
+    "name": "제22회 밀양아리랑마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "밀양종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/706/",
+    "organizer": "밀양시",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-보스톤-영웅-마라톤-20261231",
+    "name": "2026 보스톤 영웅 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암 월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/778/",
+    "organizer": "청운의꿈(주)",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-just-run10-전국-10k-러닝-대회-20261231",
+    "name": "JUST RUN10 전국 10K 러닝 대회",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "세종마루공원",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/858/",
+    "organizer": "(주)러닝브레이커,전국러닝협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-구미-박정희-마라톤-20261231",
+    "name": "2026 구미 박정희 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "낙동강체육공원 제4주차장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/780/",
+    "organizer": "구미시체육회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-run-your-way-half-20261231",
+    "name": "2026 Run your way HALF",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "광화문광장",
+    "distances": [
+      "하프"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/874/",
+    "organizer": "뉴발란스, 서울특별시",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-머니투데이방송-삼일절-마라톤-20261231",
+    "name": "2026 머니투데이방송 삼일절 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "뚝섬한강공원 수변무대",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/767/",
+    "organizer": "(주)머니투데이방송",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.975Z"
+  },
+  {
+    "id": "gorunning-2026-환경사랑부산-k-런-20261231",
+    "name": "2026 환경사랑부산 K-런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "부산 삼락생태공원",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/849/",
+    "organizer": "환경사랑부산K-런 조직위원회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제13회-안중근-평화-마라톤-20261231",
+    "name": "제13회 안중근 평화 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암 월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/872/",
+    "organizer": "안중근평화재단청년아카데미",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제4회-코리아오픈-레이스-20261231",
+    "name": "제4회 코리아오픈 레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "뚝섬한강공원",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/839/",
+    "organizer": "컬처런",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-서울경기육상연합-하프-마라톤-20261231",
+    "name": "제2회 서울경기육상연합 하프 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "광명 안양천 어린이 물놀이장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/864/",
+    "organizer": "서울경기육상연합",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제21회-부산-비치울트라-마라톤-대회-20261231",
+    "name": "제21회 부산 비치울트라 마라톤 대회",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "다대포해수욕장",
+    "distances": [
+      "하프"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/851/",
+    "organizer": "부산 비치 울트라 조직위",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-고양특례시-하프마라톤-20261231",
+    "name": "2026 고양특례시 하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "고양종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/744/",
+    "organizer": "고양시, jtbc",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-부천국제10km로드레이스-20261231",
+    "name": "2026 부천국제10km로드레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "부천중앙공원 ~ 심곡천 일원 (집결지: 부천시청)",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/811/",
+    "organizer": "부천시육상연맹",
+    "registrationStatus": "closed",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-성주참외-전국마라톤-20261231",
+    "name": "2026 성주참외 전국마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "성주별고을운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/793/",
+    "organizer": "성주군체육회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-mbn-블루레이스-거제-20261231",
+    "name": "2026 MBN 블루레이스 거제",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "거제 스포츠 파크",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/819/",
+    "organizer": "MBN, 매일경제",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제16회-여의도-벚꽃-마라톤-20261231",
+    "name": "제16회 여의도 벚꽃 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "여의도 너른들판 (물빛무대 앞 광장)",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/853/",
+    "organizer": "한국마라톤TV",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-전국민-러닝크루-패밀리-마라톤-20261231",
+    "name": "2026 전국민 러닝크루 패밀리 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암 월드컵공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/868/",
+    "organizer": "런파워(주)",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-예천군민-마스터즈-20261231",
+    "name": "2026 예천군민 마스터즈",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "예천청소년수련관",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/899/",
+    "organizer": "예천군청",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제20회-창녕부곡-온천마라톤-20261231",
+    "name": "제20회 창녕부곡 온천마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "창녕스포츠파크5구장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/805/",
+    "organizer": "창녕군체육회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-서울마라톤-20261231",
+    "name": "2026 서울마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "광화문광장",
+    "distances": [
+      "풀",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/697/",
+    "organizer": "동아일보,서울시",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": true,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-남해트레일레이스-20261231",
+    "name": "2026 남해트레일레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "남해공설운동장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/908/",
+    "organizer": "남해군 체육회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-내포마라톤-20261231",
+    "name": "2026 내포마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "내포신도시 일원 홍성KBS",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/887/",
+    "organizer": "충청투데이, 충청남도육상경기",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-지리산봄꽃레이스-20261231",
+    "name": "2026 지리산봄꽃레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "토지초등학교",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/823/",
+    "organizer": "지리산씨협동조합",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-제6회-버킷런-20261231",
+    "name": "2026 제6회 버킷런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "잠실 한강공원 청소년광장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/881/",
+    "organizer": "런앤런",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-입춘대길-제1회-춘천-소양강마라톤-20261231",
+    "name": "2026 입춘대길 제1회 춘천 소양강마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "춘천 소양강댐 하류주차장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/888/",
+    "organizer": "강원도민일보",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-서울-k-마라톤-20261231",
+    "name": "2026 서울 K-마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "광화문광장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/809/",
+    "organizer": "서울K-마라톤, 한국스포츠관광마케팅협회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-영광-광풍-마라톤-20261231",
+    "name": "제2회 영광 광풍 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "영광군 영광스포티움",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/734/",
+    "organizer": "영광군민의날 추진위원회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제26회-인천국제하프마라톤-20261231",
+    "name": "제26회 인천국제하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "인천",
+    "locationDetail": "인천문학경기장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/832/",
+    "organizer": "인천일보, (사)인천마라톤조직",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-성우하이텍배-knn환경마라톤-20261231",
+    "name": "제24회 성우하이텍배 KNN환경마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "BEXCO",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/876/",
+    "organizer": "성우하이텍, KNN",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-정읍동학마라톤-20261231",
+    "name": "2026 정읍동학마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "정읍 체육트레이닝센터",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/893/",
+    "organizer": "정읍시체육회/정읍시육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-산불조심-한국남산우정마라톤-20261231",
+    "name": "2026 산불조심 한국남산우정마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "장충단공원",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/707/",
+    "organizer": "(사)한국산악마라톤연",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제3회-불패-마라톤-20261231",
+    "name": "제3회 불패 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "여의도공원 문화의 마당",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/885/",
+    "organizer": "(사)한국생활체육연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-봄바람-유러닝페스타-20261231",
+    "name": "2026 봄바람 유러닝페스타",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "남양주시 다산동 도농체육공원",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/859/",
+    "organizer": "유러닝페스타 운영위원회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제23회-태화강-마라톤-20261231",
+    "name": "제23회 태화강 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "울산",
+    "locationDetail": "태화강 국가정원 야외공원",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/806/",
+    "organizer": "울산매일신문사",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-제3회-구리시-걷기-트레일런-20261231",
+    "name": "2026 제3회 구리시 걷기&트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "구리시청 광장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/905/",
+    "organizer": "(재)한국건강걷기연합회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-금강울트라마라톤-20261231",
+    "name": "2026 금강울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "세종",
+    "locationDetail": "금강보행교",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/880/",
+    "organizer": "금강울트라마라톤조직위원회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제14회-김포한강마라톤-20261231",
+    "name": "제14회 김포한강마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "김포종합운동장",
+    "distances": [
+      "풀",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/910/",
+    "organizer": "김포시체육회, 김포시육상연맹",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-무주반딧불-하프마라톤-20261231",
+    "name": "2026 무주반딧불 하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "무주 등나무운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/824/",
+    "organizer": "무주군체육회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-성북사랑-전국-마라톤-20261231",
+    "name": "2026 성북사랑 전국 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "중랑천 체육공원",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/894/",
+    "organizer": "성북구육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제25회-합천벚꽃마라톤-20261231",
+    "name": "제25회 합천벚꽃마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "합천공설운동장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/792/",
+    "organizer": "합천군",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026년-안양천-벚꽃-마라톤-20261231",
+    "name": "2026년 안양천 벚꽃 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "구일역 하부 인라인스케이트장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/912/",
+    "organizer": "구로구육상연맹",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제33회-315마라톤-20261231",
+    "name": "제33회 315마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "315해양누리공원",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/837/",
+    "organizer": "315의거기념사업회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제20회-정남진장흥-전국마라톤-20261231",
+    "name": "제20회 정남진장흥 전국마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "전남 장흥군 탐진강변",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/856/",
+    "organizer": "장흥군 육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-장수트레일레이스-spring-20261231",
+    "name": "2026 장수트레일레이스 Spring",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "장수종합경기장",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/870/",
+    "organizer": "락앤런",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제25회-제주-국제울트라마라톤-20261231",
+    "name": "제25회 제주 국제울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "제주",
+    "locationDetail": "탑동공원(도로)/성판악(트레일)",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/884/",
+    "organizer": "(사)대한울트라마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회",
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제33회-경주벚꽃마라톤-20261231",
+    "name": "제33회 경주벚꽃마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "보덕동 행정복지센터 옆 헬기장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/822/",
+    "organizer": "경주시",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-영암벚꽃마라톤-20261231",
+    "name": "2026 영암벚꽃마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "왕인박사유적지",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/886/",
+    "organizer": "영암군, 영암군체육회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-군산새만금마라톤-20261231",
+    "name": "2026 군산새만금마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "월명종합경기장",
+    "distances": [
+      "풀",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/871/",
+    "organizer": "군산시, 대한육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제27회-이천-도자기-마라톤-20261231",
+    "name": "제27회 이천 도자기 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "이천종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/788/",
+    "organizer": "이천시체육회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-진주남강-마라톤-20261231",
+    "name": "2026 진주남강 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "신안평거 남강둔치 및 진양호",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/834/",
+    "organizer": "진주남강마라톤대회 사무국",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-영주소백산마라톤-20261231",
+    "name": "2026 영주소백산마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "영주시민운동장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/836/",
+    "organizer": "영주시 (주관: 영주시체육회)",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제12회-나주영산강마라톤-20261231",
+    "name": "제12회 나주영산강마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "나주종합스포츠파크",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/855/",
+    "organizer": "뉴시스광주전남본부,나주마라톤",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-서울봄꽃레이스-20261231",
+    "name": "2026 서울봄꽃레이스",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "신정교육상트랙구장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/897/",
+    "organizer": "(사)대한생활체육마라톤협회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-튼튼이-마라톤-20261231",
+    "name": "2026 튼튼이 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암동 평화의공원평화광장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/914/",
+    "organizer": "사)대한구강보건협회,초록우산",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-성남런페스티벌-20261231",
+    "name": "2026 성남런페스티벌",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "성남 탄천종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/896/",
+    "organizer": "(사)대한트레일런협회",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제15회-양천마라톤-20261231",
+    "name": "제15회 양천마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "안양천 해마루축구장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/789/",
+    "organizer": "양천구",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제22회-청남대울트라-마라톤-20261231",
+    "name": "제22회 청남대울트라 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "청남대",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/791/",
+    "organizer": "청남대울트라마라톤조직위",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-mbn-선셋마라톤-영종-20261231",
+    "name": "2026 MBN 선셋마라톤 영종",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "인천",
+    "locationDetail": "영종 씨사이드 파크",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/838/",
+    "organizer": "MBN, 매일경제",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제19회-영남일보-국제-하프마라톤-20261231",
+    "name": "제19회 영남일보 국제 하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "대구",
+    "locationDetail": "대구스타디움",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/835/",
+    "organizer": "영남일보, 대일기획",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제15회-mbc섬진강꽃길마라톤-20261231",
+    "name": "제15회 MBC섬진강꽃길마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "곡성군 섬진강둔치",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/911/",
+    "organizer": "여수MBC, MBC경남",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제3회-해평-마라톤-20261231",
+    "name": "제3회 해평 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "전북특별자치도 남원시",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/879/",
+    "organizer": "사단법인 상생과평화",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-green-step-2026-esg실천마라톤-20261231",
+    "name": "Green Step 2026 ESG실천마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "전라남도 해남군 솔라시도",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/883/",
+    "organizer": "목포MBC / 마라톤세상",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제22회-창원야철마라톤-20261231",
+    "name": "제22회 창원야철마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "창원스포츠파크 보조경기장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/907/",
+    "organizer": "경남신문",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제11회-서울트레일런-20261231",
+    "name": "제11회 서울트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "시청 덕수궁돌담길",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/815/",
+    "organizer": "서울울트라랠리",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제3회-아산신정호-트레일런100k-20261231",
+    "name": "제3회 아산신정호 트레일런100k",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "신정호국민관광지",
+    "distances": [
+      "100km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/877/",
+    "organizer": "대한울트라마라톤 충남지맹",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-무등산트레일런-20261231",
+    "name": "제2회 무등산트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "광주",
+    "locationDetail": "조선대학교",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/854/",
+    "organizer": "CUK SPORTS",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제8회-오션뷰-기장바다마라톤-20261231",
+    "name": "제8회 오션뷰 기장바다마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "오시리아 동부산관광9로",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/702/",
+    "organizer": "기장바다마라톤조직위",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제23회-호남마라톤-20261231",
+    "name": "제23회 호남마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "광주",
+    "locationDetail": "승촌보 영산강문화관",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/863/",
+    "organizer": "전남일보사",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-부안해변마라톤-20261231",
+    "name": "2026 부안해변마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전북",
+    "locationDetail": "부안군 변산해수욕장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/825/",
+    "organizer": "부안군체육회/부안육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-울산커플마라톤-20261231",
+    "name": "제24회 울산커플마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "울산",
+    "locationDetail": "울산대공원 남문광장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/857/",
+    "organizer": "경상일보",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제20회-2026-단양팔경-걷기-및-마라톤-20261231",
+    "name": "제20회 2026 단양팔경 걷기 및 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "단양생태체육공원",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/843/",
+    "organizer": "단양군육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제21회-세종특별자치시-전국복사꽃-마라톤-20261231",
+    "name": "제21회 세종특별자치시 전국복사꽃 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "세종",
+    "locationDetail": "세종시민운동장",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/900/",
+    "organizer": "세종특별자치시육상연맹",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제17회-성지순례222km울트라마라톤-20261231",
+    "name": "제17회 성지순례222KM울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "명동성당 가톨릭회관",
+    "distances": [
+      "하프",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/831/",
+    "organizer": "가톨릭마라톤동호회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제30회-삼척-황영조-국제-마라톤-20261231",
+    "name": "제30회 삼척 황영조 국제 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "삼척엑스포광장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/842/",
+    "organizer": "강원일보",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-서울하프마라톤-20261231",
+    "name": "2026 서울하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "광화문광장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/783/",
+    "organizer": "조선일보, 서울특별시, 서울특별시체육회",
+    "registrationStatus": "closed",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-통일기원-포항해변마라톤-20261231",
+    "name": "제24회 통일기원 포항해변마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "포항종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/796/",
+    "organizer": "포항시육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-홍천트레일런-20261231",
+    "name": "제2회 홍천트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "홍천읍생활체육공원",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/873/",
+    "organizer": "홍천군육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제4회-아산-이순신-백의종군길-마라톤-20261231",
+    "name": "제4회 아산 이순신 백의종군길 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "아산 현충사 앞 은행나무길 제2주차장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/861/",
+    "organizer": "아산시육상연맹",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제20회-반기문마라톤-20261231",
+    "name": "제20회 반기문마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "음성종합운동장",
+    "distances": [
+      "풀",
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/906/",
+    "organizer": "음성군체육회, 런코리아",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-속리산-문장대-세조길-trail-running-20261231",
+    "name": "제2회 속리산 문장대 세조길 Trail Running",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "속리산 소형 주차장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/709/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-불-수-사-도-북-trail-run-20261231",
+    "name": "제24회 불.수.사.도.북 Trail Run",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "공릉동백세문",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/710/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-busan-50k-20261231",
+    "name": "2026 BUSAN 50K",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "신라대학교 대운동장",
+    "distances": [
+      "50km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/865/",
+    "organizer": "비프라이드 주식회사",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제19회-대전-한밭울트라마라톤-20261231",
+    "name": "제19회 대전 한밭울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "대전",
+    "locationDetail": "한밭수목원",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/827/",
+    "organizer": "대전 한밭울트라마라톤 조직위원",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-소아암환우돕기-제23회-서울시민마라톤-20261231",
+    "name": "소아암환우돕기 제23회 서울시민마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "여의도 한강 물빛광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/699/",
+    "organizer": "(사)소아암환우돕기 마라조직위",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-무의도구석구석-국제트레일런-20261231",
+    "name": "2026 무의도구석구석 국제트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "하나개해수욕장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/846/",
+    "organizer": "서울신문사, 인중구철인3종협회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회",
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-옥스팜-트레일워커-20261231",
+    "name": "2026 옥스팜 트레일워커",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "인제정중앙휴게소",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/829/",
+    "organizer": "재단법인 옥스팜코리아",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제4회-서울한강울트라마라톤-20261231",
+    "name": "제4회 서울한강울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "우이천",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/784/",
+    "organizer": "서울한강울트라마라톤대회조직위",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제31회-바다의-날-마라톤-20261231",
+    "name": "제31회 바다의 날 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암동 평화의 공원 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/889/",
+    "organizer": "한국해운신문, 해양수산부",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제37회-지리산-화대종주-20261231",
+    "name": "제37회 지리산 화대종주",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "화엄사주차장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/765/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-삼삼트레일런-20261231",
+    "name": "2026 삼삼트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경기",
+    "locationDetail": "의정부예총",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/840/",
+    "organizer": "삼삼이즈",
+    "registrationStatus": "closed",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제13회-거제100k-20261231",
+    "name": "제13회 거제100K",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경남",
+    "locationDetail": "거제시 동부면 거제중앙로288",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/909/",
+    "organizer": "블루트레일",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-전마협-창단25주년기념-2026금산월드런마라톤-20261231",
+    "name": "전마협 창단25주년기념 2026금산월드런마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "금산인삼엑스포주차장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/862/",
+    "organizer": "전국마라톤협회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026년-독도수호를-위한-동호인마라톤-20261231",
+    "name": "2026년 독도수호를 위한 동호인마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "경주시 서천체육광장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/895/",
+    "organizer": "경주시육상연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-백양산숲길건강달리기-20261231",
+    "name": "2026 백양산숲길건강달리기",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "부산",
+    "locationDetail": "학생문화회관",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/904/",
+    "organizer": "(사)부산아마추어마라톤클럽연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-남한산성-1222트레일러닝-20261231",
+    "name": "2026 남한산성 1222트레일러닝",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "마천역1번1번출구",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/746/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제9회한국-남한산성-trail-running-20261231",
+    "name": "제9회한국 남한산성 TRAIL RUNNING",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "마천역 1번출구",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/800/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-희망드림-제23회-새벽강변-국제마라톤-20261231",
+    "name": "희망드림 제23회 새벽강변 국제마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암동 평화의광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/700/",
+    "organizer": "(사)한국마라톤협회",
+    "registrationStatus": "upcoming",
+    "tags": [
+      "국제대회"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제5회-무등산-무돌길완주대회-20261231",
+    "name": "제5회 무등산 무돌길완주대회",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "광주",
+    "locationDetail": "광주역",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/882/",
+    "organizer": "(사)무등산무돌길협의회",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제12회-시각장애인과-함께하는-어울림-마라톤-20261231",
+    "name": "제12회 시각장애인과 함께하는 어울림 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암월드컵경기장 평화광장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/892/",
+    "organizer": "서울시각장애인스포츠연맹",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-제10회-포항철강마라톤-20261231",
+    "name": "2026 제10회 포항철강마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "포항 영일대 해상누각",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/867/",
+    "organizer": "경북매일신문",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-제23회-빛고을-울트라마라톤-20261231",
+    "name": "2026 제23회 빛고을 울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "광주",
+    "locationDetail": "광주 광역시청 야외광장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/878/",
+    "organizer": "빛고을울트라조직위원회",
+    "registrationStatus": "unknown",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제22회-영덕-해변-전국마라톤-20261231",
+    "name": "제22회 영덕 해변 전국마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "고래불해수욕장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/737/",
+    "organizer": "영덕군",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-소백산-죽령트레일런-20261231",
+    "name": "2026 소백산 죽령트레일런",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "죽령휴게소",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/812/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제10회-노원구청장배-겸-제9회-회장배마라톤-20261231",
+    "name": "제10회 노원구청장배 겸 제9회 회장배마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "창동교",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/869/",
+    "organizer": "노원구 노원구육상경기연맹",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제8회안산인왕산북악산trailrun-20261231",
+    "name": "제8회안산인왕산북악산TRAILRUN",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "연세대학교",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/801/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-울릉도-국제-트레일러닝-20261231",
+    "name": "2026 울릉도 국제 트레일러닝",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "울릉 공설운동장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/705/",
+    "organizer": "OSK 아웃도어스포츠코리아",
+    "registrationStatus": "unknown",
+    "tags": [
+      "국제대회",
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제38회-지리산화대종주-trail-run-20261231",
+    "name": "제38회 지리산화대종주 Trail Run",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "전남",
+    "locationDetail": "화엄사주차장",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/817/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제14회설악산공룡능선climbathon-20261231",
+    "name": "제14회설악산공룡능선CLIMBATHON",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "설익산한계령휴계소",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/802/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-청광종주trailrunning-20261231",
+    "name": "제24회 청광종주TRAILRUNNING",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "양재동 화물",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/847/",
+    "organizer": "(사)한국산악마라톤연맹",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-울진-금강송배-힐링마라톤-20261231",
+    "name": "2026 울진 금강송배 힐링마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "경북",
+    "locationDetail": "울진종합운동장",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/738/",
+    "organizer": "울진군",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제2회-아산이순신-트레일-20261231",
+    "name": "제2회 아산이순신 트레일",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "아산 신정호 이순신장군 동상",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/901/",
+    "organizer": "아산 이순신트레일 조직위원회",
+    "registrationStatus": "upcoming",
+    "tags": [
+      "트레일런"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.991Z"
+  },
+  {
+    "id": "gorunning-제20회-달서하프마라톤-20261231",
+    "name": "제20회 달서하프마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "대구",
+    "locationDetail": "대구 달서구 호림강나루공원",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/913/",
+    "organizer": "달서구체육회",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제7회-천안삼거리-흥타령울트라마라톤-20261231",
+    "name": "제7회 천안삼거리 흥타령울트라마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충남",
+    "locationDetail": "천안삼거리공원",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/830/",
+    "organizer": "천안삼거리흥타령울트라조직위",
+    "registrationStatus": "upcoming",
+    "tags": [
+      "울트라"
+    ],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-제24회-청원생명쌀대청호마라톤-20261231",
+    "name": "제24회 청원생명쌀대청호마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "충북",
+    "locationDetail": "문의체육공원",
+    "distances": [
+      "풀",
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/848/",
+    "organizer": "청주시체육회",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-경포마라톤-20261231",
+    "name": "2026 경포마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "강원",
+    "locationDetail": "강원특별자치도 강릉시",
+    "distances": [
+      "하프",
+      "10km",
+      "5km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/890/",
+    "organizer": "(주)강원도민일보",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-아시아-오픈-마라톤-20261231",
+    "name": "2026 아시아 오픈 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "서울 광화문 광장",
+    "distances": [
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/891/",
+    "organizer": "아시아투데이",
+    "registrationStatus": "upcoming",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": false,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
+  },
+  {
+    "id": "gorunning-2026-jtbc-마라톤-20261231",
+    "name": "2026 jtbc 마라톤",
+    "date": "2026-12-31",
+    "country": "KR",
+    "region": "서울",
+    "locationDetail": "상암동 평화의 광장",
+    "distances": [
+      "풀",
+      "10km"
+    ],
+    "registrationUrl": "https://gorunning.kr/races/852/",
+    "organizer": "jtbc",
+    "registrationStatus": "unknown",
+    "tags": [],
+    "source": "gorunning",
+    "isPopular": true,
+    "lastUpdated": "2026-01-21T04:00:29.976Z"
   }
 ]

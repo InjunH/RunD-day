@@ -1,22 +1,22 @@
 {
-  "lastRun": "2026-01-21T02:38:40.917Z",
+  "lastRun": "2026-01-21T04:00:30.039Z",
   "nextScheduledRun": "2026-01-21T21:00:00.000Z",
   "sources": [
     {
       "name": "gorunning",
       "status": "success",
       "itemCount": 142,
-      "lastUpdated": "2026-01-21T02:38:38.709Z"
+      "lastUpdated": "2026-01-21T04:00:27.175Z"
     },
     {
       "name": "aims",
       "status": "success",
       "itemCount": 371,
-      "lastUpdated": "2026-01-21T02:38:40.853Z"
+      "lastUpdated": "2026-01-21T04:00:29.975Z"
     }
   ],
-  "totalEvents": 501,
-  "krEvents": 146,
+  "totalEvents": 499,
+  "krEvents": 144,
   "intlEvents": 355,
   "version": "1.0.0"
 }
