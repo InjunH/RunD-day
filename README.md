@@ -277,3 +277,6 @@ Final test with jq --rawfile - 2026-01-26 22:35:15
 
 # Journey Success Test
 Testing with new API key - 2026-01-26 22:41:53
+
+# Journey Final Test
+API key auth test - 2026-01-26 22:43:35
