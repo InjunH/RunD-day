@@ -256,3 +256,6 @@ chore: 빌드/설정 변경
 Made with ❤️ by Runners, for Runners
 
 </div>
+
+# Journey Test
+Testing AI Journey data collection - Mon Jan 26 22:31:22 KST 2026
