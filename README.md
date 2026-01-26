@@ -271,3 +271,6 @@ Test with increased body limit - 2026-01-26 22:33:59
 
 # Journey Test 5
 Final test with jq - 2026-01-26 22:34:43
+
+# Journey Test 6
+Final test with jq --rawfile - 2026-01-26 22:35:15
