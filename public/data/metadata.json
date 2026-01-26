@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-01-21T09:46:58.129Z",
+  "lastRun": "2026-01-21T04:00:30.039Z",
   "nextScheduledRun": "2026-01-21T21:00:00.000Z",
   "sources": [
     {
       "name": "gorunning",
       "status": "success",
       "itemCount": 142,
-      "lastUpdated": "2026-01-21T09:46:55.440Z"
+      "lastUpdated": "2026-01-21T04:00:27.175Z"
     },
     {
       "name": "aims",
       "status": "success",
       "itemCount": 371,
-      "lastUpdated": "2026-01-21T09:46:58.074Z"
+      "lastUpdated": "2026-01-21T04:00:29.975Z"
     }
   ],
   "totalEvents": 499,

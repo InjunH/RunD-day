@@ -18,7 +18,6 @@ const logger = createLogger('gorunning');
 
 interface GoRunningRaceRow {
   name: string;
-  date: string; // 날짜 (섹션 헤더에서 추출)
   distance: string; // 종목 (풀, 하프, 10km 등)
   region: string; // 지역
   location: string; // 장소
@@ -103,32 +102,16 @@ export class GoRunningScraper implements Scraper {
   }
 
   private async extractRaces(page: Page): Promise<GoRunningRaceRow[]> {
-    // gorunning.kr은 날짜별로 섹션을 나누어 대회를 표시
-    // 각 섹션의 헤더에서 날짜를 추출하고, 그 아래 테이블에서 대회 정보 추출
+    // 테이블 또는 리스트에서 데이터 추출
+    // 실제 gorunning.kr 페이지 구조에 맞게 조정 필요
     const races = await page.evaluate(() => {
-      const results: Array<GoRunningRaceRow & { date: string }> = [];
+      const results: GoRunningRaceRow[] = [];
 
-      // 날짜 앵커 섹션 찾기: <div id="race-2026-03-08">
-      const dateSections = document.querySelectorAll('[id^="race-"]');
-
-      dateSections.forEach((section) => {
-        // 섹션 헤더에서 날짜 텍스트 추출: "03월 08일 (일)"
-        const dateSpan = section.querySelector('h3 span.bg-blue-100');
-        const dateText = dateSpan?.textContent?.trim() || '';
-
-        // 날짜 파싱: "03월 08일 (일)" → "2026-03-08"
-        const dateMatch = dateText.match(/(\d{1,2})월\s*(\d{1,2})일/);
-        if (!dateMatch) return; // 날짜를 찾지 못하면 스킵
-
-        const month = dateMatch[1].padStart(2, '0');
-        const day = dateMatch[2].padStart(2, '0');
-        const year = new Date().getFullYear();
-        const date = `${year}-${month}-${day}`;
-
-        // 이 섹션 내의 모든 테이블 행 추출
-        // 데스크톱 뷰 테이블 구조:
-        // [0]: 순번, [1]: 대회명, [2]: 종목, [3]: 지역, [4]: 장소, [5]: 주최, [6]: 등록상태
-        const tableRows = section.querySelectorAll('table tbody tr');
+      // 테이블 형식 시도
+      // 실제 gorunning.kr 테이블 구조:
+      // [0]: 순번, [1]: 대회명, [2]: 종목, [3]: 지역, [4]: 장소, [5]: 주최, [6]: 등록상태
+      const tableRows = document.querySelectorAll('table tbody tr');
+      if (tableRows.length > 0) {
         tableRows.forEach((row) => {
           const cells = row.querySelectorAll('td');
           if (cells.length >= 6) {
@@ -136,7 +119,6 @@ export class GoRunningScraper implements Scraper {
             if (name) {
               results.push({
                 name,
-                date, // ✅ 섹션 헤더에서 추출한 정확한 날짜
                 distance: cells[2]?.textContent?.trim() || '',
                 region: cells[3]?.textContent?.trim() || '',
                 location: cells[4]?.textContent?.trim() || '',
@@ -147,22 +129,48 @@ export class GoRunningScraper implements Scraper {
             }
           }
         });
+        return results;
+      }
+
+      // 카드/리스트 형식 시도 (fallback)
+      const cards = document.querySelectorAll('[class*="race"], [class*="event"], [class*="card"]');
+      cards.forEach((card) => {
+        const name =
+          card.querySelector('[class*="title"], h2, h3')?.textContent?.trim() || '';
+        const location =
+          card.querySelector('[class*="location"], [class*="place"]')?.textContent?.trim() ||
+          '';
+        const link = card.querySelector('a')?.href || '';
+
+        if (name) {
+          results.push({
+            name,
+            distance: '',
+            region: '',
+            location,
+            organizer: '',
+            status: '',
+            link,
+          });
+        }
       });
 
       return results;
     });
 
     // 이름이 있는 레이스만 필터링
-    return races.filter((r) => r.name);
+    return races.filter((r: GoRunningRaceRow) => r.name);
   }
 
   private transformToRaw(raw: GoRunningRaceRow): RawMarathonEvent {
-    // 날짜는 이미 섹션 헤더에서 추출되어 raw.date에 저장됨
+    // 테이블에 날짜 열이 없으므로 대회명에서 추출
+    const date = this.extractDateFromName(raw.name);
+
     return {
       source: this.name,
-      sourceId: this.generateId(raw, raw.date),
+      sourceId: this.generateId(raw, date),
       name: raw.name,
-      date: raw.date,
+      date,
       location: {
         country: 'KR',
         region: this.extractRegionFromRaw(raw),
@@ -228,6 +236,29 @@ export class GoRunningScraper implements Scraper {
     }
 
     return distances;
+  }
+
+  private extractDateFromName(name: string): string {
+    const year = new Date().getFullYear();
+
+    // 이름에서 날짜 패턴 추출: "1월31일", "01.31", "1/31" 등
+    const koreanMatch = name.match(/(\d{1,2})월\s*(\d{1,2})일?/);
+    if (koreanMatch) {
+      return `${year}-${koreanMatch[1].padStart(2, '0')}-${koreanMatch[2].padStart(2, '0')}`;
+    }
+
+    const dotMatch = name.match(/(\d{1,2})[./](\d{1,2})/);
+    if (dotMatch) {
+      return `${year}-${dotMatch[1].padStart(2, '0')}-${dotMatch[2].padStart(2, '0')}`;
+    }
+
+    return this.getDefaultDate();
+  }
+
+  private getDefaultDate(): string {
+    // 기본값: 현재 연도 말
+    const year = new Date().getFullYear();
+    return `${year}-12-31`;
   }
 
   private extractRegion(location: string): KRRegion | '기타' {
