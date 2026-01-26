@@ -265,3 +265,6 @@ Testing AI Journey - 2026-01-26 22:32:25
 
 # Journey Test 3
 Final test - 2026-01-26 22:32:54
+
+# Journey Test 4
+Test with increased body limit - 2026-01-26 22:33:59
