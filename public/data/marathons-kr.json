@@ -1,52 +1,5 @@
 [
   {
-    "id": "aims-aims-worldrunning.org-6869",
-    "name": "Daegu Marathon",
-    "date": "2026-02-22",
-    "endDate": "2026-02-23",
-    "country": "KR",
-    "region": "기타",
-    "locationDetail": "Daegu, Korea",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://daegu.go.kr/daegumarathon/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-02-22T21:27:27.929Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7043",
-    "name": "Gyeonggi International Half Marathon",
-    "date": "2026-02-22",
-    "endDate": "2026-02-23",
-    "country": "KR",
-    "region": "기타",
-    "locationDetail": "Korea",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "www.ggimarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-02-22T21:27:27.929Z"
-  },
-  {
     "id": "aims-aims-worldrunning.org-6727",
     "name": "Seoul Marathon",
     "date": "2026-03-15",
@@ -67,7 +20,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-02-22T21:27:27.930Z"
+    "lastUpdated": "2026-02-23T21:49:02.820Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6937",
@@ -90,6 +43,6 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-02-22T21:27:27.931Z"
+    "lastUpdated": "2026-02-23T21:49:02.822Z"
   }
 ]
