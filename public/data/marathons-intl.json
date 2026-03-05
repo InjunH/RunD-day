@@ -1,28 +1,5 @@
 [
   {
-    "id": "aims-aims-worldrunning.org-6623",
-    "name": "TUI Cyprus Marathon",
-    "date": "2026-03-07",
-    "endDate": "2026-03-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Cyprus",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.cyprusmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
     "id": "aims-aims-worldrunning.org-6767",
     "name": "Saipan Marathon",
     "date": "2026-03-07",
@@ -43,7 +20,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6623",
+    "name": "TUI Cyprus Marathon",
+    "date": "2026-03-07",
+    "endDate": "2026-03-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Cyprus",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.cyprusmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6773",
+    "name": "Nanshan Taipei Freeway Marathon",
+    "date": "2026-03-08",
+    "endDate": "2026-03-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Taipei, Taiwan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.taipeifreewaymarathon.com/index.php",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6707",
@@ -66,30 +89,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6789",
-    "name": "Standard Chartered Stanley Marathon",
-    "date": "2026-03-08",
-    "endDate": "2026-03-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Falkland Islands",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.sc.com/fk/marathon",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6679",
@@ -113,7 +113,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6789",
+    "name": "Standard Chartered Stanley Marathon",
+    "date": "2026-03-08",
+    "endDate": "2026-03-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Falkland Islands",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.sc.com/fk/marathon",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6737",
@@ -137,30 +160,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6773",
-    "name": "Nanshan Taipei Freeway Marathon",
-    "date": "2026-03-08",
-    "endDate": "2026-03-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Taipei, Taiwan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.taipeifreewaymarathon.com/index.php",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6776",
@@ -185,53 +185,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6752",
-    "name": "Zurich Marató de Barcelona",
-    "date": "2026-03-15",
-    "endDate": "2026-03-16",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Spain",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.zurichmaratobarcelona.es",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6771",
-    "name": "New Taipei City Wan Jin Shi Marathon",
-    "date": "2026-03-15",
-    "endDate": "2026-03-16",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Chinese Taipei",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.wanjinshi-marathon.com.tw",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6969",
@@ -254,7 +208,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6752",
+    "name": "Zurich Marató de Barcelona",
+    "date": "2026-03-15",
+    "endDate": "2026-03-16",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Spain",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.zurichmaratobarcelona.es",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6771",
+    "name": "New Taipei City Wan Jin Shi Marathon",
+    "date": "2026-03-15",
+    "endDate": "2026-03-16",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Chinese Taipei",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.wanjinshi-marathon.com.tw",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6777",
@@ -279,7 +279,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6706",
+    "name": "XM Limassol Marathon",
+    "date": "2026-03-21",
+    "endDate": "2026-03-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Cyprus",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.limassolmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6856",
@@ -303,30 +326,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6706",
-    "name": "XM Limassol Marathon",
-    "date": "2026-03-21",
-    "endDate": "2026-03-23",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Cyprus",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.limassolmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6753",
@@ -349,54 +349,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6705",
-    "name": "Sihanoukville International Half Marathon",
-    "date": "2026-03-22",
-    "endDate": "2026-03-23",
-    "country": "UK",
-    "region": "기타",
-    "locationDetail": "Cambodia",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "www.cambodia-events.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6859",
-    "name": "Wuxi Marathon",
-    "date": "2026-03-22",
-    "endDate": "2026-03-23",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Wuxi, China",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.wuximarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6835",
@@ -419,67 +372,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6754",
-    "name": "Tokushima Marathon",
-    "date": "2026-03-22",
-    "endDate": "2026-03-23",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Tokushima City, Japan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.tokushima-marathon.jp",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6723",
-    "name": "20th Warsaw Half Marathon",
+    "id": "aims-aims-worldrunning.org-6859",
+    "name": "Wuxi Marathon",
     "date": "2026-03-22",
     "endDate": "2026-03-23",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Poland",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "polmaratonwarszawski.com/en/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6690",
-    "name": "Danang International Marathon",
-    "date": "2026-03-22",
-    "endDate": "2026-03-23",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Vietnam",
+    "locationDetail": "Wuxi, China",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.rundanang.com",
+    "registrationUrl": "www.wuximarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -489,7 +395,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6661",
@@ -512,7 +418,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6674",
+    "name": "Movistar Madrid Medio Maratón",
+    "date": "2026-03-22",
+    "endDate": "2026-03-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Spain",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.mediomaratonmadrid.es",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.343Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6686",
@@ -536,20 +465,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6674",
-    "name": "Movistar Madrid Medio Maratón",
+    "id": "aims-aims-worldrunning.org-6754",
+    "name": "Tokushima Marathon",
     "date": "2026-03-22",
     "endDate": "2026-03-23",
-    "country": "INTL",
+    "country": "JP",
     "region": "기타",
-    "locationDetail": "Spain",
+    "locationDetail": "Tokushima City, Japan",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.mediomaratonmadrid.es",
+    "registrationUrl": "www.tokushima-marathon.jp",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -559,7 +488,78 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6690",
+    "name": "Danang International Marathon",
+    "date": "2026-03-22",
+    "endDate": "2026-03-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Vietnam",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.rundanang.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6723",
+    "name": "20th Warsaw Half Marathon",
+    "date": "2026-03-22",
+    "endDate": "2026-03-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Poland",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "polmaratonwarszawski.com/en/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6705",
+    "name": "Sihanoukville International Half Marathon",
+    "date": "2026-03-22",
+    "endDate": "2026-03-23",
+    "country": "UK",
+    "region": "기타",
+    "locationDetail": "Cambodia",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "www.cambodia-events.org",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6736",
@@ -584,7 +584,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6739",
@@ -608,7 +608,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6846",
@@ -632,31 +632,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6872",
-    "name": "International Marathon Varadero",
-    "date": "2026-03-29",
-    "endDate": "2026-03-30",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Varadero, Cuba",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "varadero-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6682",
@@ -679,7 +655,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6647",
@@ -703,7 +679,31 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6872",
+    "name": "International Marathon Varadero",
+    "date": "2026-03-29",
+    "endDate": "2026-03-30",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Varadero, Cuba",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "varadero-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6755",
@@ -726,7 +726,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6772",
@@ -750,7 +750,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6948",
@@ -773,7 +773,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6657",
@@ -797,7 +797,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6675",
@@ -820,214 +820,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6838",
-    "name": "TS Women Run",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Taipei city, Taiwan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.sportsnet.org.tw",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6673",
-    "name": "ČSOB Bratislava Marathon",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Slovakia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.bratislavamarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6670",
-    "name": "Ochsner Sport Zürich Marathon",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Switzerland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.zuerichmarathon.ch",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6651",
-    "name": "ADAC Marathon Hannover",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "DE",
-    "region": "기타",
-    "locationDetail": "Germany",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.marathon-hannover.de",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6916",
-    "name": "Hobart Marathon Festival",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Australia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.hobartmarathon.com.au",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6676",
-    "name": "Milano Marathon",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Italy",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.milanomarathon.it/en/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6683",
-    "name": "Maraton Cartago",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "San Jose, Costa Rica",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.grupopublicitariocr.net",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6684",
-    "name": "Canberra Times Marathon Festival",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Australia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "solemotive.com/pages/canberra-times-marathon-festival",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6677",
-    "name": "Enschede Marathon",
-    "date": "2026-04-12",
-    "endDate": "2026-04-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Netherlands",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.enschedemarathon.nl",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6806",
@@ -1050,7 +843,214 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6673",
+    "name": "ČSOB Bratislava Marathon",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Slovakia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.bratislavamarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6676",
+    "name": "Milano Marathon",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Italy",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.milanomarathon.it/en/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6677",
+    "name": "Enschede Marathon",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Netherlands",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.enschedemarathon.nl",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6683",
+    "name": "Maraton Cartago",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "San Jose, Costa Rica",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.grupopublicitariocr.net",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6684",
+    "name": "Canberra Times Marathon Festival",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Australia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "solemotive.com/pages/canberra-times-marathon-festival",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6838",
+    "name": "TS Women Run",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Taipei city, Taiwan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.sportsnet.org.tw",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6670",
+    "name": "Ochsner Sport Zürich Marathon",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Switzerland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.zuerichmarathon.ch",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6916",
+    "name": "Hobart Marathon Festival",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Australia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.hobartmarathon.com.au",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6651",
+    "name": "ADAC Marathon Hannover",
+    "date": "2026-04-12",
+    "endDate": "2026-04-13",
+    "country": "DE",
+    "region": "기타",
+    "locationDetail": "Germany",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathon-hannover.de",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7044",
@@ -1074,31 +1074,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6840",
-    "name": "Almaty Half Marathon",
-    "date": "2026-04-19",
-    "endDate": "2026-04-20",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Almaty, Kazakhstan",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "almaty-marathon.kz/en/events",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.921Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6652",
@@ -1122,99 +1098,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6672",
-    "name": "Vienna City Marathon",
-    "date": "2026-04-19",
-    "endDate": "2026-04-20",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Austria",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.vienna-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6832",
-    "name": "Maratón Puerto Vallarta",
-    "date": "2026-04-19",
-    "endDate": "2026-04-20",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Puerto Vallarto, Mexico",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratonpuertovallarta.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6735",
-    "name": "Crete Marathon",
-    "date": "2026-04-19",
-    "endDate": "2026-04-20",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Crete, Greece",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "crete-marathon.gr",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6738",
-    "name": "Nagano Marathon",
-    "date": "2026-04-19",
-    "endDate": "2026-04-20",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Japan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.naganomarathon.gr.jp",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6766",
@@ -1238,7 +1122,123 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6832",
+    "name": "Maratón Puerto Vallarta",
+    "date": "2026-04-19",
+    "endDate": "2026-04-20",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Puerto Vallarto, Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratonpuertovallarta.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6735",
+    "name": "Crete Marathon",
+    "date": "2026-04-19",
+    "endDate": "2026-04-20",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Crete, Greece",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "crete-marathon.gr",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6672",
+    "name": "Vienna City Marathon",
+    "date": "2026-04-19",
+    "endDate": "2026-04-20",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Austria",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.vienna-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6840",
+    "name": "Almaty Half Marathon",
+    "date": "2026-04-19",
+    "endDate": "2026-04-20",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Almaty, Kazakhstan",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "almaty-marathon.kz/en/events",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6738",
+    "name": "Nagano Marathon",
+    "date": "2026-04-19",
+    "endDate": "2026-04-20",
+    "country": "JP",
+    "region": "기타",
+    "locationDetail": "Japan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.naganomarathon.gr.jp",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6671",
@@ -1261,31 +1261,7 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6783",
-    "name": "Du Motion-Runners’ Days Dubrovnik (Dubrovnik Half Marathon)",
-    "date": "2026-04-25",
-    "endDate": "2026-04-27",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Dubrovnik, Croatia",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "www.du-motion.com/en/home/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6722",
@@ -1309,7 +1285,31 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6783",
+    "name": "Du Motion-Runners’ Days Dubrovnik (Dubrovnik Half Marathon)",
+    "date": "2026-04-25",
+    "endDate": "2026-04-27",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Dubrovnik, Croatia",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "www.du-motion.com/en/home/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6667",
@@ -1332,7 +1332,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6768",
@@ -1355,7 +1355,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6728",
+    "name": "International Marathon Alexander the Great",
+    "date": "2026-04-26",
+    "endDate": "2026-04-27",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Greece",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "atgm.gr/?lang=en",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7045",
+    "name": "Dalian International Marathon",
+    "date": "2026-04-26",
+    "endDate": "2026-04-27",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.dlmls.org",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-5984",
@@ -1379,20 +1425,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7017",
-    "name": "Tata Consultancy Services World 10K Bengaluru",
+    "id": "aims-aims-worldrunning.org-6914",
+    "name": "Maratón de Santiago",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "India",
+    "locationDetail": "Chile",
     "distances": [
-      "10km"
+      "풀"
     ],
-    "registrationUrl": "tcsworld10k.procam.in",
+    "registrationUrl": "www.maratondesantiago.cl",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1402,20 +1448,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6689",
-    "name": "Kaunas Marathon",
+    "id": "aims-aims-worldrunning.org-6702",
+    "name": "Padova Marathon",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Kaunas, Lithuania",
+    "locationDetail": "Padua, Italy",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.kaunasmarathon.lt",
+    "registrationUrl": "www.padovamarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1425,30 +1471,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6669",
-    "name": "Big Sur International Marathon",
-    "date": "2026-04-26",
-    "endDate": "2026-04-27",
-    "country": "US",
-    "region": "기타",
-    "locationDetail": "United States of America",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.bigsurmarathon.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7046",
@@ -1471,7 +1494,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6740",
@@ -1494,43 +1517,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6664",
-    "name": "Haspa Marathon Hamburg",
-    "date": "2026-04-26",
-    "endDate": "2026-04-27",
-    "country": "DE",
-    "region": "기타",
-    "locationDetail": "Germany",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.haspa-marathon-hamburg.de",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6627",
-    "name": "Zurich Rock ’n’ Roll Running Series Madrid",
+    "id": "aims-aims-worldrunning.org-6689",
+    "name": "Kaunas Marathon",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Spain",
+    "locationDetail": "Kaunas, Lithuania",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.rocknrollmadridrun.com",
+    "registrationUrl": "www.kaunasmarathon.lt",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1540,54 +1540,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6986",
-    "name": "Il-Ġirja t'Għawdex",
-    "date": "2026-04-26",
-    "endDate": "2026-04-27",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Malta",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.rungozo.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6962",
-    "name": "Moscow Half Marathon",
-    "date": "2026-04-26",
-    "endDate": "2026-04-27",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Moscow, Russia",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "moscowhalf.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6765",
@@ -1611,20 +1564,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6702",
-    "name": "Padova Marathon",
+    "id": "aims-aims-worldrunning.org-6669",
+    "name": "Big Sur International Marathon",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
-    "country": "INTL",
+    "country": "US",
     "region": "기타",
-    "locationDetail": "Padua, Italy",
+    "locationDetail": "United States of America",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.padovamarathon.com",
+    "registrationUrl": "www.bigsurmarathon.org",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1634,20 +1587,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6914",
-    "name": "Maratón de Santiago",
+    "id": "aims-aims-worldrunning.org-6664",
+    "name": "Haspa Marathon Hamburg",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
-    "country": "INTL",
+    "country": "DE",
     "region": "기타",
-    "locationDetail": "Chile",
+    "locationDetail": "Germany",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.maratondesantiago.cl",
+    "registrationUrl": "www.haspa-marathon-hamburg.de",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1657,20 +1610,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7045",
-    "name": "Dalian International Marathon",
+    "id": "aims-aims-worldrunning.org-6627",
+    "name": "Zurich Rock ’n’ Roll Running Series Madrid",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "China",
+    "locationDetail": "Spain",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.dlmls.org",
+    "registrationUrl": "www.rocknrollmadridrun.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1680,20 +1633,21 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6728",
-    "name": "International Marathon Alexander the Great",
+    "id": "aims-aims-worldrunning.org-6962",
+    "name": "Moscow Half Marathon",
     "date": "2026-04-26",
     "endDate": "2026-04-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Greece",
+    "locationDetail": "Moscow, Russia",
     "distances": [
-      "풀"
+      "풀",
+      "하프"
     ],
-    "registrationUrl": "atgm.gr/?lang=en",
+    "registrationUrl": "moscowhalf.org",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -1703,7 +1657,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7017",
+    "name": "Tata Consultancy Services World 10K Bengaluru",
+    "date": "2026-04-26",
+    "endDate": "2026-04-27",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "India",
+    "distances": [
+      "10km"
+    ],
+    "registrationUrl": "tcsworld10k.procam.in",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6986",
+    "name": "Il-Ġirja t'Għawdex",
+    "date": "2026-04-26",
+    "endDate": "2026-04-27",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Malta",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.rungozo.org",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6826",
@@ -1726,76 +1726,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6547",
-    "name": "Maratón de Cali",
-    "date": "2026-05-03",
-    "endDate": "2026-05-04",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Colombia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "maratondecali.co",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6997",
-    "name": "Maratón Internacional de Mendoza",
-    "date": "2026-05-03",
-    "endDate": "2026-05-04",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Mendoza, Argentina",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratondemendoza.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6693",
-    "name": "Toronto Marathon",
-    "date": "2026-05-03",
-    "endDate": "2026-05-04",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Canada",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.torontomarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6716",
@@ -1818,30 +1749,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6878",
-    "name": "Brooks Adelaide Marathon Festival",
-    "date": "2026-05-03",
-    "endDate": "2026-05-04",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Australia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.adelaidemarathon.com.au",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6822",
@@ -1864,7 +1772,99 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6997",
+    "name": "Maratón Internacional de Mendoza",
+    "date": "2026-05-03",
+    "endDate": "2026-05-04",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mendoza, Argentina",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratondemendoza.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6878",
+    "name": "Brooks Adelaide Marathon Festival",
+    "date": "2026-05-03",
+    "endDate": "2026-05-04",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Australia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.adelaidemarathon.com.au",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6547",
+    "name": "Maratón de Cali",
+    "date": "2026-05-03",
+    "endDate": "2026-05-04",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Colombia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "maratondecali.co",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6693",
+    "name": "Toronto Marathon",
+    "date": "2026-05-03",
+    "endDate": "2026-05-04",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Canada",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.torontomarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6691",
@@ -1888,7 +1888,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6692",
@@ -1911,7 +1911,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6714",
@@ -1934,30 +1934,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6658",
-    "name": "WVV Marathon Wuerzburg",
-    "date": "2026-05-10",
-    "endDate": "2026-05-11",
-    "country": "DE",
-    "region": "기타",
-    "locationDetail": "Würzburg, Germany",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.wuerzburg-marathon.de",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6697",
@@ -1980,76 +1957,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6699",
-    "name": "Salzburg Marathon",
-    "date": "2026-05-10",
-    "endDate": "2026-05-18",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Austria",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.salzburg-marathon.at",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6724",
-    "name": "Borneo International Marathon",
-    "date": "2026-05-10",
-    "endDate": "2026-05-11",
-    "country": "UK",
-    "region": "기타",
-    "locationDetail": "Likas Stadium, Jalan Kompleks Sukan, 88450 Kota Kinabalu, Sabah, Malaysia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.borneomarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7031",
-    "name": "Maratón de Montevideo",
-    "date": "2026-05-10",
-    "endDate": "2026-05-11",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Montevideo, Uruguay",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://montevideo.gub.uy/maraton-montevideo-2024",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6987",
@@ -2072,7 +1980,99 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6658",
+    "name": "WVV Marathon Wuerzburg",
+    "date": "2026-05-10",
+    "endDate": "2026-05-11",
+    "country": "DE",
+    "region": "기타",
+    "locationDetail": "Würzburg, Germany",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.wuerzburg-marathon.de",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6724",
+    "name": "Borneo International Marathon",
+    "date": "2026-05-10",
+    "endDate": "2026-05-11",
+    "country": "UK",
+    "region": "기타",
+    "locationDetail": "Likas Stadium, Jalan Kompleks Sukan, 88450 Kota Kinabalu, Sabah, Malaysia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.borneomarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6699",
+    "name": "Salzburg Marathon",
+    "date": "2026-05-10",
+    "endDate": "2026-05-18",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Austria",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.salzburg-marathon.at",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7031",
+    "name": "Maratón de Montevideo",
+    "date": "2026-05-10",
+    "endDate": "2026-05-11",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Montevideo, Uruguay",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://montevideo.gub.uy/maraton-montevideo-2024",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6890",
@@ -2095,7 +2095,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6700",
+    "name": "Helsinki City Run",
+    "date": "2026-05-15",
+    "endDate": "2026-05-17",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Finland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.helsinkicityrun.fi/en",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6810",
@@ -2119,76 +2142,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6700",
-    "name": "Helsinki City Run",
-    "date": "2026-05-15",
-    "endDate": "2026-05-17",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Finland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.helsinkicityrun.fi/en",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7036",
-    "name": "Tallinn Women’s Run – Maijooks",
-    "date": "2026-05-16",
-    "endDate": "2026-05-18",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Estonia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "maijooks.ee",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6701",
-    "name": "Three Hearts Marathon",
-    "date": "2026-05-16",
-    "endDate": "2026-05-17",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Slovenia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maraton-radenci.si",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6703",
@@ -2211,7 +2165,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6719",
+    "name": "The Great Wall Marathon",
+    "date": "2026-05-16",
+    "endDate": "2026-05-17",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.great-wall-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6802",
@@ -2235,20 +2212,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6719",
-    "name": "The Great Wall Marathon",
+    "id": "aims-aims-worldrunning.org-6701",
+    "name": "Three Hearts Marathon",
     "date": "2026-05-16",
     "endDate": "2026-05-17",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "China",
+    "locationDetail": "Slovenia",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.great-wall-marathon.com",
+    "registrationUrl": "www.maraton-radenci.si",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -2258,7 +2235,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7036",
+    "name": "Tallinn Women’s Run – Maijooks",
+    "date": "2026-05-16",
+    "endDate": "2026-05-18",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Estonia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "maijooks.ee",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6848",
@@ -2281,7 +2281,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7110",
+    "name": "Gbarnga Marathon",
+    "date": "2026-05-20",
+    "endDate": "2026-05-21",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Liberia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "​gbarngamarathonfoundation.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6718",
@@ -2304,30 +2327,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6883",
-    "name": "Lima 42k Marathon",
-    "date": "2026-05-24",
-    "endDate": "2026-05-25",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Peru",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.lima42k.com.pe",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7029",
@@ -2350,7 +2350,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6883",
+    "name": "Lima 42k Marathon",
+    "date": "2026-05-24",
+    "endDate": "2026-05-25",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Peru",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.lima42k.com.pe",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6798",
@@ -2373,7 +2396,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6717",
@@ -2396,7 +2419,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6790",
@@ -2420,79 +2443,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6725",
-    "name": "Cork City Marathon, Half Marathon & 10k Race",
-    "date": "2026-05-31",
-    "endDate": "2026-06-01",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Ireland",
-    "distances": [
-      "풀",
-      "하프",
-      "10km"
-    ],
-    "registrationUrl": "www.corkcitymarathon.ie",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6786",
-    "name": "ASICS Austrian Women’s Run",
-    "date": "2026-05-31",
-    "endDate": "2026-06-01",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Austria",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.oesterreichischer-frauenlauf.at/de",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6823",
-    "name": "Scenic Half Marathon Chanthaburi",
-    "date": "2026-05-31",
-    "endDate": "2026-06-01",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Thailand",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "www.scenicmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6407",
@@ -2518,7 +2469,79 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6725",
+    "name": "Cork City Marathon, Half Marathon & 10k Race",
+    "date": "2026-05-31",
+    "endDate": "2026-06-01",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Ireland",
+    "distances": [
+      "풀",
+      "하프",
+      "10km"
+    ],
+    "registrationUrl": "www.corkcitymarathon.ie",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6786",
+    "name": "ASICS Austrian Women’s Run",
+    "date": "2026-05-31",
+    "endDate": "2026-06-01",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Austria",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.oesterreichischer-frauenlauf.at/de",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6823",
+    "name": "Scenic Half Marathon Chanthaburi",
+    "date": "2026-05-31",
+    "endDate": "2026-06-01",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Thailand",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "www.scenicmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6947",
@@ -2542,7 +2565,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7002",
@@ -2565,54 +2588,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6721",
-    "name": "Björn Borg Helsinki Half Marathon",
-    "date": "2026-06-06",
-    "endDate": "2026-06-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Helsinki, Finland",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "www.helsinkihalfmarathon.fi",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7058",
-    "name": "15km de Moulay Abdellah",
-    "date": "2026-06-06",
-    "endDate": "2026-06-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Morocco",
-    "distances": [
-      "5km"
-    ],
-    "registrationUrl": "",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7032",
@@ -2636,7 +2612,54 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7058",
+    "name": "15km de Moulay Abdellah",
+    "date": "2026-06-06",
+    "endDate": "2026-06-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Morocco",
+    "distances": [
+      "5km"
+    ],
+    "registrationUrl": "",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6721",
+    "name": "Björn Borg Helsinki Half Marathon",
+    "date": "2026-06-06",
+    "endDate": "2026-06-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Helsinki, Finland",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "www.helsinkihalfmarathon.fi",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6326",
@@ -2661,30 +2684,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6695",
-    "name": "Tórshavn Marathon",
-    "date": "2026-06-07",
-    "endDate": "2026-06-08",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Faroe Islands",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.torshavnmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6715",
@@ -2707,7 +2707,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6695",
+    "name": "Tórshavn Marathon",
+    "date": "2026-06-07",
+    "endDate": "2026-06-08",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Faroe Islands",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.torshavnmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6888",
@@ -2730,7 +2753,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6853",
@@ -2753,30 +2776,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6726",
-    "name": "Kigali International Peace Marathon",
-    "date": "2026-06-14",
-    "endDate": "2026-06-15",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Rwanda",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.kigalimarathon.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6892",
@@ -2799,7 +2799,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6889",
+    "name": "Bangsaen10",
+    "date": "2026-06-14",
+    "endDate": "2026-06-15",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Bangkok, Thailand",
+    "distances": [
+      "10km"
+    ],
+    "registrationUrl": "www.bangsaen10.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6952",
@@ -2823,20 +2846,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6889",
-    "name": "Bangsaen10",
+    "id": "aims-aims-worldrunning.org-6726",
+    "name": "Kigali International Peace Marathon",
     "date": "2026-06-14",
     "endDate": "2026-06-15",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Bangkok, Thailand",
+    "locationDetail": "Rwanda",
     "distances": [
-      "10km"
+      "풀"
     ],
-    "registrationUrl": "www.bangsaen10.com",
+    "registrationUrl": "www.kigalimarathon.org",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -2846,7 +2869,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6622",
@@ -2869,7 +2892,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6801",
@@ -2892,7 +2915,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6731",
@@ -2915,7 +2938,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7090",
@@ -2938,7 +2961,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6785",
@@ -2961,30 +2984,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7040",
-    "name": "BMW Tangamanga International Marathon",
-    "date": "2026-06-28",
-    "endDate": "2026-06-29",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "[22.1401987,-101.0029256]",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratontangamanga.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6821",
@@ -3007,31 +3007,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7047",
-    "name": "Lake Saroma 100km Ultra Marathon",
-    "date": "2026-06-28",
-    "endDate": "2026-06-29",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Lake Saroma, Hokkaido, Japan",
-    "distances": [
-      "100km",
-      "풀"
-    ],
-    "registrationUrl": "saromanblue.jp/index.shtml",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6830",
@@ -3055,7 +3031,54 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7040",
+    "name": "BMW Tangamanga International Marathon",
+    "date": "2026-06-28",
+    "endDate": "2026-06-29",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "[22.1401987,-101.0029256]",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratontangamanga.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7047",
+    "name": "Lake Saroma 100km Ultra Marathon",
+    "date": "2026-06-28",
+    "endDate": "2026-06-29",
+    "country": "JP",
+    "region": "기타",
+    "locationDetail": "Lake Saroma, Hokkaido, Japan",
+    "distances": [
+      "100km",
+      "풀"
+    ],
+    "registrationUrl": "saromanblue.jp/index.shtml",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6781",
@@ -3078,30 +3101,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6816",
-    "name": "Gornergrat Zermatt Marathon",
-    "date": "2026-07-04",
-    "endDate": "2026-07-05",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Switzerland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.zermattmarathon.ch",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6959",
@@ -3124,7 +3124,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6816",
+    "name": "Gornergrat Zermatt Marathon",
+    "date": "2026-07-04",
+    "endDate": "2026-07-05",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Switzerland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.zermattmarathon.ch",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6809",
@@ -3148,7 +3171,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6858",
@@ -3171,7 +3194,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6780",
@@ -3194,7 +3217,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7086",
@@ -3217,7 +3240,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6778",
@@ -3241,7 +3264,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6884",
@@ -3264,7 +3287,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6918",
@@ -3287,30 +3310,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6814",
-    "name": "Amazing Thailand Pattaya Marathon – Official Pattaya City Marathon",
-    "date": "2026-07-19",
-    "endDate": "2026-07-20",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Thailand",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.pattayamarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6086",
@@ -3333,7 +3333,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6824",
@@ -3356,20 +3356,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6782",
-    "name": "media maratón de Bogotá",
-    "date": "2026-07-26",
-    "endDate": "2026-07-27",
+    "id": "aims-aims-worldrunning.org-6814",
+    "name": "Amazing Thailand Pattaya Marathon – Official Pattaya City Marathon",
+    "date": "2026-07-19",
+    "endDate": "2026-07-20",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Colombia",
+    "locationDetail": "Thailand",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.mediamaratonbogota.com",
+    "registrationUrl": "www.pattayamarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -3379,7 +3379,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6920",
@@ -3403,20 +3403,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7092",
-    "name": "Nongkhai Running Festival",
-    "date": "2026-08-01",
-    "endDate": "2026-08-02",
+    "id": "aims-aims-worldrunning.org-6782",
+    "name": "media maratón de Bogotá",
+    "date": "2026-07-26",
+    "endDate": "2026-07-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Thailand",
+    "locationDetail": "Colombia",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "race.nongkhai42.com",
+    "registrationUrl": "www.mediamaratonbogota.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -3426,7 +3426,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6882",
@@ -3449,20 +3449,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6841",
-    "name": "Angkor Empire Marathon",
-    "date": "2026-08-02",
-    "endDate": "2026-08-03",
+    "id": "aims-aims-worldrunning.org-7092",
+    "name": "Nongkhai Running Festival",
+    "date": "2026-08-01",
+    "endDate": "2026-08-02",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Cambodia",
+    "locationDetail": "Thailand",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.cambodia-events.org",
+    "registrationUrl": "race.nongkhai42.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -3472,7 +3472,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6828",
@@ -3495,20 +3495,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6855",
-    "name": "La Carrera del Pacífico - Cali 10K",
-    "date": "2026-08-09",
-    "endDate": "2026-08-10",
+    "id": "aims-aims-worldrunning.org-6841",
+    "name": "Angkor Empire Marathon",
+    "date": "2026-08-02",
+    "endDate": "2026-08-03",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Colombia",
+    "locationDetail": "Cambodia",
     "distances": [
-      "10km"
+      "풀"
     ],
-    "registrationUrl": "lacarreradelpacifico.com",
+    "registrationUrl": "www.cambodia-events.org",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -3518,7 +3518,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6961",
@@ -3542,7 +3542,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7093",
@@ -3565,7 +3565,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6855",
+    "name": "La Carrera del Pacífico - Cali 10K",
+    "date": "2026-08-09",
+    "endDate": "2026-08-10",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Colombia",
+    "distances": [
+      "10km"
+    ],
+    "registrationUrl": "lacarreradelpacifico.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7061",
@@ -3589,7 +3612,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6827",
@@ -3614,7 +3637,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7062",
@@ -3638,7 +3661,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7028",
@@ -3661,30 +3684,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6849",
-    "name": "Björn Borg Helsinki Marathon",
-    "date": "2026-08-22",
-    "endDate": "2026-08-23",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Helsinki, Finland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.helsinkimarathon.fi",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6852",
@@ -3707,7 +3707,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6849",
+    "name": "Björn Borg Helsinki Marathon",
+    "date": "2026-08-22",
+    "endDate": "2026-08-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Helsinki, Finland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.helsinkimarathon.fi",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6966",
@@ -3730,7 +3753,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6913",
+    "name": "Barossa Marathon Festival",
+    "date": "2026-08-23",
+    "endDate": "2026-08-24",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Australia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.barossamarathon.com.au",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7048",
@@ -3755,30 +3801,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6913",
-    "name": "Barossa Marathon Festival",
-    "date": "2026-08-23",
-    "endDate": "2026-08-24",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Australia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.barossamarathon.com.au",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6850",
@@ -3802,7 +3825,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6764",
@@ -3825,30 +3848,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6940",
-    "name": "NMDC Hyderabad Marathon powered by IDFC FIRST Bank",
-    "date": "2026-08-30",
-    "endDate": "2026-08-31",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Hyderabad, India",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "nmdchyderabadmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6938",
@@ -3871,20 +3871,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6984",
-    "name": "Abbott Longford Marathon",
+    "id": "aims-aims-worldrunning.org-6940",
+    "name": "NMDC Hyderabad Marathon powered by IDFC FIRST Bank",
     "date": "2026-08-30",
     "endDate": "2026-08-31",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Ireland",
+    "locationDetail": "Hyderabad, India",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "longfordmarathon.com",
+    "registrationUrl": "nmdchyderabadmarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -3894,30 +3894,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7049",
-    "name": "Maratón de la Ciudad de México Telcel",
-    "date": "2026-08-30",
-    "endDate": "2026-08-31",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Mexico",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "maraton.cdmx.gob.mx",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6943",
@@ -3940,7 +3917,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6984",
+    "name": "Abbott Longford Marathon",
+    "date": "2026-08-30",
+    "endDate": "2026-08-31",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Ireland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "longfordmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7049",
+    "name": "Maratón de la Ciudad de México Telcel",
+    "date": "2026-08-30",
+    "endDate": "2026-08-31",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "maraton.cdmx.gob.mx",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6293",
@@ -3963,7 +3986,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6903",
@@ -3986,7 +4009,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7034",
@@ -4010,7 +4033,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7108",
+    "name": "Pushkin – St Petersburg Marathon",
+    "date": "2026-09-06",
+    "endDate": "2026-09-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Russia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "pushkin-run.ru",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7066",
@@ -4034,7 +4080,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6851",
@@ -4058,30 +4104,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7108",
-    "name": "Pushkin – St Petersburg Marathon",
-    "date": "2026-09-06",
-    "endDate": "2026-09-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Russia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "pushkin-run.ru",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6936",
@@ -4105,7 +4128,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6907",
@@ -4131,20 +4154,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7051",
-    "name": "Vilnius Marathon",
+    "id": "aims-aims-worldrunning.org-6863",
+    "name": "28th International WACHAUmarathon",
     "date": "2026-09-13",
     "endDate": "2026-09-14",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Lithuania",
+    "locationDetail": "Austria",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.vilniusmarathon.lt",
+    "registrationUrl": "www.wachaumarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4154,7 +4177,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6864",
@@ -4178,30 +4201,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6863",
-    "name": "28th International WACHAUmarathon",
-    "date": "2026-09-13",
-    "endDate": "2026-09-14",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Austria",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.wachaumarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6862",
@@ -4224,7 +4224,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7051",
+    "name": "Vilnius Marathon",
+    "date": "2026-09-13",
+    "endDate": "2026-09-14",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Lithuania",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.vilniusmarathon.lt",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6803",
@@ -4247,7 +4270,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6953",
@@ -4271,7 +4294,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6902",
@@ -4294,7 +4317,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6977",
@@ -4317,7 +4340,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6893",
@@ -4340,7 +4363,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6813",
@@ -4363,7 +4386,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7033",
+    "name": "Buenos Aires International Marathon",
+    "date": "2026-09-20",
+    "endDate": "2026-09-21",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Argentina",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratondebuenosaires.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6774",
+    "name": "WRRC Copenhagen 26",
+    "date": "2026-09-20",
+    "endDate": "2026-09-21",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Denmark",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://worldathletics.org/competitions/world-athletics-road-running-championships/copenhagen26",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6968",
@@ -4387,7 +4456,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6978",
@@ -4410,20 +4479,21 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6774",
-    "name": "WRRC Copenhagen 26",
+    "id": "aims-aims-worldrunning.org-7111",
+    "name": "Walls Great Half Antwerpen",
     "date": "2026-09-20",
     "endDate": "2026-09-21",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Denmark",
+    "locationDetail": "Belgium",
     "distances": [
-      "풀"
+      "풀",
+      "하프"
     ],
-    "registrationUrl": "https://worldathletics.org/competitions/world-athletics-road-running-championships/copenhagen26",
+    "registrationUrl": "www.linkeroevertmarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4433,30 +4503,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7033",
-    "name": "Buenos Aires International Marathon",
-    "date": "2026-09-20",
-    "endDate": "2026-09-21",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Argentina",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratondebuenosaires.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6569",
@@ -4479,30 +4526,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7103",
-    "name": "Galaxy Vladivostok Marathon",
-    "date": "2026-09-26",
-    "endDate": "2026-09-27",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Vladivostok, Russia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "galaxymarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6923",
@@ -4525,7 +4549,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6960",
@@ -4548,20 +4572,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6944",
-    "name": "Almaty Marathon",
-    "date": "2026-09-27",
-    "endDate": "2026-09-28",
+    "id": "aims-aims-worldrunning.org-7103",
+    "name": "Galaxy Vladivostok Marathon",
+    "date": "2026-09-26",
+    "endDate": "2026-09-27",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Kazakhstan",
+    "locationDetail": "Vladivostok, Russia",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "almaty-marathon.kz/en/events",
+    "registrationUrl": "galaxymarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4571,20 +4595,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6779",
-    "name": "H.C. Andersen Marathon",
+    "id": "aims-aims-worldrunning.org-6954",
+    "name": "Kuching Marathon",
     "date": "2026-09-27",
     "endDate": "2026-09-28",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Denmark",
+    "locationDetail": "Kuching, Malaysia",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.hcamarathon.com",
+    "registrationUrl": "www.marathonkuching.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4594,7 +4618,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6879",
+    "name": "BMW Berlin-Marathon",
+    "date": "2026-09-27",
+    "endDate": "2026-09-28",
+    "country": "DE",
+    "region": "기타",
+    "locationDetail": "Paul-Lobe-Allee, Berlin, Germany",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.bmw-berlin-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": true,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7050",
@@ -4618,76 +4665,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7080",
-    "name": "Route du Vin Remich",
-    "date": "2026-09-27",
-    "endDate": "2026-09-28",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Luxembourg",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.routeduvin.lu/en",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6972",
-    "name": "48th Warsaw Marathon",
-    "date": "2026-09-27",
-    "endDate": "2026-09-28",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Poland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "maratonwarszawski.com/en/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6879",
-    "name": "BMW Berlin-Marathon",
-    "date": "2026-09-27",
-    "endDate": "2026-09-28",
-    "country": "DE",
-    "region": "기타",
-    "locationDetail": "Paul-Lobe-Allee, Berlin, Germany",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.bmw-berlin-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6861",
@@ -4710,20 +4688,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6954",
-    "name": "Kuching Marathon",
+    "id": "aims-aims-worldrunning.org-6779",
+    "name": "H.C. Andersen Marathon",
     "date": "2026-09-27",
     "endDate": "2026-09-28",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Kuching, Malaysia",
+    "locationDetail": "Denmark",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.marathonkuching.com",
+    "registrationUrl": "www.hcamarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4733,7 +4711,76 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6944",
+    "name": "Almaty Marathon",
+    "date": "2026-09-27",
+    "endDate": "2026-09-28",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Kazakhstan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "almaty-marathon.kz/en/events",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7080",
+    "name": "Route du Vin Remich",
+    "date": "2026-09-27",
+    "endDate": "2026-09-28",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Luxembourg",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.routeduvin.lu/en",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.344Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6972",
+    "name": "48th Warsaw Marathon",
+    "date": "2026-09-27",
+    "endDate": "2026-09-28",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Poland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "maratonwarszawski.com/en/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6992",
@@ -4756,30 +4803,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6985",
-    "name": "Kuala Lumpur Standard Chartered Marathon",
-    "date": "2026-10-03",
-    "endDate": "2026-10-05",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Malaysia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.kl-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6998",
@@ -4802,20 +4826,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6970",
-    "name": "Sarmang Dehradun Marathon",
-    "date": "2026-10-04",
+    "id": "aims-aims-worldrunning.org-6985",
+    "name": "Kuala Lumpur Standard Chartered Marathon",
+    "date": "2026-10-03",
     "endDate": "2026-10-05",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Dehrahun, India",
+    "locationDetail": "Malaysia",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "sarmangdehradunmarathon.sarmang.com",
+    "registrationUrl": "www.kl-marathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -4825,30 +4849,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6989",
-    "name": "25th LOTTO Poznań Marathon",
-    "date": "2026-10-04",
-    "endDate": "2026-10-05",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Poland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.marathon.poznan.pl",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6929",
@@ -4871,7 +4872,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6928",
@@ -4894,7 +4895,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6975",
@@ -4917,30 +4918,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6932",
-    "name": "Košice Peace Marathon",
-    "date": "2026-10-04",
-    "endDate": "2026-10-05",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Slovakia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.kosicemarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7083",
@@ -4963,7 +4941,76 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6989",
+    "name": "25th LOTTO Poznań Marathon",
+    "date": "2026-10-04",
+    "endDate": "2026-10-05",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Poland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathon.poznan.pl",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6932",
+    "name": "Košice Peace Marathon",
+    "date": "2026-10-04",
+    "endDate": "2026-10-05",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Slovakia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.kosicemarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6970",
+    "name": "Sarmang Dehradun Marathon",
+    "date": "2026-10-04",
+    "endDate": "2026-10-05",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Dehrahun, India",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "sarmangdehradunmarathon.sarmang.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7101",
@@ -4987,7 +5034,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6949",
@@ -5010,7 +5057,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6926",
@@ -5033,7 +5080,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6995",
@@ -5056,99 +5103,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6927",
-    "name": "Bank of America Chicago Marathon",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
-    "country": "US",
-    "region": "기타",
-    "locationDetail": "United States of America",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "chicagomarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6775",
-    "name": "Royal Victoria Marathon",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Canada",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.runvictoriamarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6900",
-    "name": "3 Country Sparkasse Marathon",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Austria",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.sparkasse-3-laender-marathon.at",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7052",
-    "name": "ASML Marathon Eindhoven",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Netherlands",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.asmlmarathoneindhoven.nl",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7073",
@@ -5172,7 +5127,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6927",
+    "name": "Bank of America Chicago Marathon",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "US",
+    "region": "기타",
+    "locationDetail": "United States of America",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "chicagomarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": true,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6910",
@@ -5195,7 +5173,122 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6775",
+    "name": "Royal Victoria Marathon",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Canada",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.runvictoriamarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6900",
+    "name": "3 Country Sparkasse Marathon",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Austria",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.sparkasse-3-laender-marathon.at",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7052",
+    "name": "ASML Marathon Eindhoven",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Netherlands",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.asmlmarathoneindhoven.nl",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6981",
+    "name": "Nike Melbourne Marathon Festival",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Australia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.melbournemarathon.com.au",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6990",
+    "name": "Wizz Air Sofia Marathon",
+    "date": "2026-10-11",
+    "endDate": "2026-10-12",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Sofia, Bulgaria",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "sofiamarathon.bg/en/ ",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6994",
@@ -5219,20 +5312,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.922Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6990",
-    "name": "Wizz Air Sofia Marathon",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
+    "id": "aims-aims-worldrunning.org-6976",
+    "name": "TCS Amsterdam Marathon",
+    "date": "2026-10-17",
+    "endDate": "2026-10-19",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Sofia, Bulgaria",
+    "locationDetail": "Netherlands",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "sofiamarathon.bg/en/ ",
+    "registrationUrl": "www.tcsamsterdammarathon.nl",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -5242,30 +5335,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6981",
-    "name": "Nike Melbourne Marathon Festival",
-    "date": "2026-10-11",
-    "endDate": "2026-10-12",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Australia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.melbournemarathon.com.au",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6983",
@@ -5288,7 +5358,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6906",
@@ -5314,20 +5384,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6976",
-    "name": "TCS Amsterdam Marathon",
-    "date": "2026-10-17",
+    "id": "aims-aims-worldrunning.org-6895",
+    "name": "TUI Palma Marathon Mallorca",
+    "date": "2026-10-18",
     "endDate": "2026-10-19",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Netherlands",
+    "locationDetail": "Palma de Mallorca, Spain",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.tcsamsterdammarathon.nl",
+    "registrationUrl": "https://www.palmademallorcamarathon.com/english",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -5337,7 +5407,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6901",
+    "name": "TREK Antwerp Marathon",
+    "date": "2026-10-18",
+    "endDate": "2026-10-19",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Belgium",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.antwerpmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7030",
+    "name": "Beijing Marathon",
+    "date": "2026-10-18",
+    "endDate": "2026-10-19",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.beijing-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7018",
@@ -5361,30 +5477,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7030",
-    "name": "Beijing Marathon",
-    "date": "2026-10-18",
-    "endDate": "2026-10-19",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "China",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.beijing-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7054",
@@ -5407,53 +5500,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6895",
-    "name": "TUI Palma Marathon Mallorca",
-    "date": "2026-10-18",
-    "endDate": "2026-10-19",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Palma de Mallorca, Spain",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://www.palmademallorcamarathon.com/english",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6901",
-    "name": "TREK Antwerp Marathon",
-    "date": "2026-10-18",
-    "endDate": "2026-10-19",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Belgium",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.antwerpmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6973",
@@ -5476,30 +5523,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6931",
-    "name": "TAWANG Marathon",
-    "date": "2026-10-24",
-    "endDate": "2026-10-25",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "India",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.tawangmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6924",
@@ -5522,20 +5546,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7069",
-    "name": "Maratón Aguascalientes",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
+    "id": "aims-aims-worldrunning.org-6931",
+    "name": "TAWANG Marathon",
+    "date": "2026-10-24",
+    "endDate": "2026-10-25",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Mexico",
+    "locationDetail": "India",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "maratonaguascalientes.com",
+    "registrationUrl": "www.tawangmarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -5545,146 +5569,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6860",
-    "name": "Irish Life Dublin Marathon",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Fitzwilliam Square, Dublin",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "irishlifedublinmarathon.ie",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6946",
-    "name": "Turkistan Marathon",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Kazakhstan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "almaty-marathon.kz/en/events",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6544",
-    "name": "SwissCityMarathon – Lucerne",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Switzerland",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.swisscitymarathon.ch",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7075",
-    "name": "Marathon International de Casablanca",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Morocco",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.casablanca-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7053",
-    "name": "Mae Moh Half Marathon",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Thailand",
-    "distances": [
-      "풀",
-      "하프"
-    ],
-    "registrationUrl": "race.thai.run/maemohhalfmarathon2024",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6950",
-    "name": "Venicemarathon",
-    "date": "2026-10-25",
-    "endDate": "2026-10-26",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Italy",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.venicemarathon.it",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6925",
@@ -5707,7 +5592,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6544",
+    "name": "SwissCityMarathon – Lucerne",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Switzerland",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.swisscitymarathon.ch",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6422",
+    "name": "Mainova Frankfurt Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "DE",
+    "region": "기타",
+    "locationDetail": "Germany",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.frankfurt-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7015",
@@ -5731,7 +5662,54 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7053",
+    "name": "Mae Moh Half Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Thailand",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "race.thai.run/maemohhalfmarathon2024",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6946",
+    "name": "Turkistan Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Kazakhstan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "almaty-marathon.kz/en/events",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6825",
@@ -5754,20 +5732,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6422",
-    "name": "Mainova Frankfurt Marathon",
+    "id": "aims-aims-worldrunning.org-7075",
+    "name": "Marathon International de Casablanca",
     "date": "2026-10-25",
     "endDate": "2026-10-26",
-    "country": "DE",
+    "country": "INTL",
     "region": "기타",
-    "locationDetail": "Germany",
+    "locationDetail": "Morocco",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.frankfurt-marathon.com",
+    "registrationUrl": "www.casablanca-marathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -5777,7 +5755,76 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6950",
+    "name": "Venicemarathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Italy",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.venicemarathon.it",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7069",
+    "name": "Maratón Aguascalientes",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "maratonaguascalientes.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6860",
+    "name": "Irish Life Dublin Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Fitzwilliam Square, Dublin",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "irishlifedublinmarathon.ie",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7068",
@@ -5800,30 +5847,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7065",
-    "name": "Sun Moon Lake Marathon",
-    "date": "2026-11-01",
-    "endDate": "2026-11-02",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Xiangshan Visitor Center, Sun Moon Lake National Scenic Park, Taiwan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.sunmoonlakemarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6982",
@@ -5846,53 +5870,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7021",
-    "name": "İstanbul Marathon",
-    "date": "2026-11-01",
-    "endDate": "2026-11-02",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Türkiye",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maraton.istanbul",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7020",
-    "name": "Hangzhou Marathon",
-    "date": "2026-11-01",
-    "endDate": "2026-11-02",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "China",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.hzim.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7019",
@@ -5915,7 +5893,76 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7065",
+    "name": "Sun Moon Lake Marathon",
+    "date": "2026-11-01",
+    "endDate": "2026-11-02",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Xiangshan Visitor Center, Sun Moon Lake National Scenic Park, Taiwan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.sunmoonlakemarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7020",
+    "name": "Hangzhou Marathon",
+    "date": "2026-11-01",
+    "endDate": "2026-11-02",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.hzim.org",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7021",
+    "name": "İstanbul Marathon",
+    "date": "2026-11-01",
+    "endDate": "2026-11-02",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Türkiye",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maraton.istanbul",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6967",
@@ -5938,7 +5985,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7042",
@@ -5961,7 +6008,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6979",
@@ -5985,122 +6032,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6980",
-    "name": "EDP Porto Marathon",
-    "date": "2026-11-08",
-    "endDate": "2026-11-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Portugal",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratonadoporto.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6921",
-    "name": "French Riviera Marathon Nice-Cannes",
-    "date": "2026-11-08",
-    "endDate": "2026-11-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "France",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.marathon06.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6933",
-    "name": "Guadalajara Marathon Skarch hydrated by Electrolit",
-    "date": "2026-11-08",
-    "endDate": "2026-11-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Mexico",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratonguadalajara.org",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6964",
-    "name": "Antarctic Ice Ultra",
-    "date": "2026-11-08",
-    "endDate": "2026-11-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Antarctica",
-    "distances": [
-      "100km"
-    ],
-    "registrationUrl": "www.iceultra.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6955",
-    "name": "Medio Maratón la Capital del Deporte",
-    "date": "2026-11-08",
-    "endDate": "2026-11-09",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Mexico",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://www.facebook.com/DeporteMpalSLP",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6922",
@@ -6123,7 +6055,122 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6955",
+    "name": "Medio Maratón la Capital del Deporte",
+    "date": "2026-11-08",
+    "endDate": "2026-11-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://www.facebook.com/DeporteMpalSLP",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6933",
+    "name": "Guadalajara Marathon Skarch hydrated by Electrolit",
+    "date": "2026-11-08",
+    "endDate": "2026-11-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratonguadalajara.org",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6964",
+    "name": "Antarctic Ice Ultra",
+    "date": "2026-11-08",
+    "endDate": "2026-11-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Antarctica",
+    "distances": [
+      "100km"
+    ],
+    "registrationUrl": "www.iceultra.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6980",
+    "name": "EDP Porto Marathon",
+    "date": "2026-11-08",
+    "endDate": "2026-11-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Portugal",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratonadoporto.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6921",
+    "name": "French Riviera Marathon Nice-Cannes",
+    "date": "2026-11-08",
+    "endDate": "2026-11-09",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "France",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathon06.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6963",
@@ -6146,7 +6193,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6886",
@@ -6169,30 +6216,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7098",
-    "name": "Kobe Marathon",
-    "date": "2026-11-15",
-    "endDate": "2026-11-16",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Japan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.kobe-marathon.net",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6974",
@@ -6215,7 +6239,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7098",
+    "name": "Kobe Marathon",
+    "date": "2026-11-15",
+    "endDate": "2026-11-16",
+    "country": "JP",
+    "region": "기타",
+    "locationDetail": "Japan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.kobe-marathon.net",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7087",
@@ -6239,7 +6286,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6915",
@@ -6262,7 +6309,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6941",
@@ -6285,20 +6332,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7041",
-    "name": "Halong Bay Heritage Marathon",
+    "id": "aims-aims-worldrunning.org-7094",
+    "name": "9th “Olympic Day Run” Greece",
     "date": "2026-11-22",
     "endDate": "2026-11-23",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Vietnam",
+    "locationDetail": "Greece",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "halongmarathon.com ",
+    "registrationUrl": "olympicdayrun.gr",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -6308,7 +6355,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7107",
+    "name": "Elopura Marathon Sandakan",
+    "date": "2026-11-22",
+    "endDate": "2026-11-23",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Malaysia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.elopuramarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7056",
@@ -6332,20 +6402,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7094",
-    "name": "9th “Olympic Day Run” Greece",
+    "id": "aims-aims-worldrunning.org-7041",
+    "name": "Halong Bay Heritage Marathon",
     "date": "2026-11-22",
     "endDate": "2026-11-23",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Greece",
+    "locationDetail": "Vietnam",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "olympicdayrun.gr",
+    "registrationUrl": "halongmarathon.com ",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -6355,53 +6425,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7107",
-    "name": "Elopura Marathon Sandakan",
-    "date": "2026-11-22",
-    "endDate": "2026-11-23",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Malaysia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.elopuramarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7105",
-    "name": "Jolshiri RunBangla Marathon",
-    "date": "2026-11-27",
-    "endDate": "2026-11-28",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Hatirjheel, Dhaka, Bangladesh",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.Run-Bangla.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7077",
@@ -6424,7 +6448,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7105",
+    "name": "Jolshiri RunBangla Marathon",
+    "date": "2026-11-27",
+    "endDate": "2026-11-28",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Hatirjheel, Dhaka, Bangladesh",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.Run-Bangla.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6912",
@@ -6448,7 +6495,31 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7095",
+    "name": "Discoveries Half Marathon",
+    "date": "2026-11-29",
+    "endDate": "2026-11-30",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Portugal",
+    "distances": [
+      "풀",
+      "하프"
+    ],
+    "registrationUrl": "meiamaratonadosdescobrimentos.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7109",
@@ -6472,99 +6543,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6874",
-    "name": "Maratón 7 Colores",
-    "date": "2026-11-29",
-    "endDate": "2026-11-30",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Colombia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "fundacion7colores.org/en/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6971",
-    "name": "Estra Firenze Marathon",
-    "date": "2026-11-29",
-    "endDate": "2026-11-30",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Italy",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.firenzemarathon.it",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6988",
-    "name": "Maratón Monumental Primer Santiago de América",
-    "date": "2026-11-29",
-    "endDate": "2026-11-30",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Santiago, Dominican Republic",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratonsantiago.com.do",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7000",
-    "name": "Serge Vigot La Rochelle International Marathon",
-    "date": "2026-11-29",
-    "endDate": "2026-11-30",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "France",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "marathondelarochelle.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6685",
@@ -6587,7 +6566,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6549",
@@ -6612,21 +6591,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7095",
-    "name": "Discoveries Half Marathon",
+    "id": "aims-aims-worldrunning.org-6971",
+    "name": "Estra Firenze Marathon",
     "date": "2026-11-29",
     "endDate": "2026-11-30",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Portugal",
+    "locationDetail": "Italy",
     "distances": [
-      "풀",
-      "하프"
+      "풀"
     ],
-    "registrationUrl": "meiamaratonadosdescobrimentos.com",
+    "registrationUrl": "www.firenzemarathon.it",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -6636,7 +6614,76 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7000",
+    "name": "Serge Vigot La Rochelle International Marathon",
+    "date": "2026-11-29",
+    "endDate": "2026-11-30",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "France",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "marathondelarochelle.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6988",
+    "name": "Maratón Monumental Primer Santiago de América",
+    "date": "2026-11-29",
+    "endDate": "2026-11-30",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Santiago, Dominican Republic",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratonsantiago.com.do",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6874",
+    "name": "Maratón 7 Colores",
+    "date": "2026-11-29",
+    "endDate": "2026-11-30",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Colombia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "fundacion7colores.org/en/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6993",
@@ -6660,20 +6707,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-6867",
-    "name": "Pune International Marathon",
+    "id": "aims-aims-worldrunning.org-7039",
+    "name": "Valencia Trinidad Alfonso Marathon",
     "date": "2026-12-06",
     "endDate": "2026-12-07",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "India",
+    "locationDetail": "Spain",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.marathonpune.com",
+    "registrationUrl": "www.valenciaciudaddelrunning.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -6683,7 +6730,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6935",
+    "name": "Marathon COMAR Tunis - Carthage",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Tunis, Tunisia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathon.comar.tn",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6897",
+    "name": "Run Bhopal Run",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "India",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "runbhopalrun.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6999",
@@ -6709,99 +6802,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6935",
-    "name": "Marathon COMAR Tunis - Carthage",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Tunis, Tunisia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.marathon.comar.tn",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7027",
-    "name": "Fukuoka International Marathon",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Japan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.fukuoka-international-marathon.jp",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7024",
-    "name": "Standard Chartered Singapore Marathon",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Singapore",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.singaporemarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7023",
-    "name": "Hofu Yomiuri Marathon",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "JP",
-    "region": "기타",
-    "locationDetail": "Japan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://hofu-yomiuri.jp/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6911",
@@ -6826,76 +6827,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6897",
-    "name": "Run Bhopal Run",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "India",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "runbhopalrun.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6844",
-    "name": "Shenzhen Marathon",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "China",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "shenzhenmarathon.org.cn",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6945",
-    "name": "Walkers Cayman Islands Marathon",
-    "date": "2026-12-06",
-    "endDate": "2026-12-07",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Cayman Islands",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.caymanislandsmarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7022",
@@ -6918,7 +6850,122 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7023",
+    "name": "Hofu Yomiuri Marathon",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "JP",
+    "region": "기타",
+    "locationDetail": "Japan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://hofu-yomiuri.jp/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7024",
+    "name": "Standard Chartered Singapore Marathon",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Singapore",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.singaporemarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6844",
+    "name": "Shenzhen Marathon",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "shenzhenmarathon.org.cn",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7027",
+    "name": "Fukuoka International Marathon",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "JP",
+    "region": "기타",
+    "locationDetail": "Japan",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.fukuoka-international-marathon.jp",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6867",
+    "name": "Pune International Marathon",
+    "date": "2026-12-06",
+    "endDate": "2026-12-07",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "India",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathonpune.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6951",
@@ -6942,20 +6989,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7039",
-    "name": "Valencia Trinidad Alfonso Marathon",
+    "id": "aims-aims-worldrunning.org-6945",
+    "name": "Walkers Cayman Islands Marathon",
     "date": "2026-12-06",
     "endDate": "2026-12-07",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Spain",
+    "locationDetail": "Cayman Islands",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.valenciaciudaddelrunning.com",
+    "registrationUrl": "www.caymanislandsmarathon.com",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -6965,7 +7012,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7099",
@@ -6988,7 +7035,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6996",
+    "name": "ADNOC Abu Dhabi Marathon",
+    "date": "2026-12-12",
+    "endDate": "2026-12-13",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Abu Dhabi, UAE",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.adnocabudhabimarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6939",
@@ -7012,99 +7082,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6996",
-    "name": "ADNOC Abu Dhabi Marathon",
-    "date": "2026-12-12",
-    "endDate": "2026-12-13",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Abu Dhabi, UAE",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.adnocabudhabimarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7102",
-    "name": "Zengwen Reservoir Marathon",
-    "date": "2026-12-13",
-    "endDate": "2026-12-14",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Zengwen Reservoir, Taiwan",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.athletics.org.tw",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6942",
-    "name": "Mt. Fuji International Marathon",
-    "date": "2026-12-13",
-    "endDate": "2026-12-14",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "[35.5720991, 139.1141342]",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "https://mtfujimarathon.com/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7106",
-    "name": "Maratón Powerade Monterrey",
-    "date": "2026-12-13",
-    "endDate": "2026-12-14",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Mexico",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.maratonmonterrey.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7001",
@@ -7128,20 +7106,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7025",
-    "name": "Guangzhou Marathon",
-    "date": "2026-12-20",
-    "endDate": "2026-12-21",
+    "id": "aims-aims-worldrunning.org-7102",
+    "name": "Zengwen Reservoir Marathon",
+    "date": "2026-12-13",
+    "endDate": "2026-12-14",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "China",
+    "locationDetail": "Zengwen Reservoir, Taiwan",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.guangzhou-marathon.com",
+    "registrationUrl": "www.athletics.org.tw",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -7151,20 +7129,20 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
-    "id": "aims-aims-worldrunning.org-7057",
-    "name": "Bangsaen21",
-    "date": "2026-12-20",
-    "endDate": "2026-12-21",
+    "id": "aims-aims-worldrunning.org-6942",
+    "name": "Mt. Fuji International Marathon",
+    "date": "2026-12-13",
+    "endDate": "2026-12-14",
     "country": "INTL",
     "region": "기타",
-    "locationDetail": "Bangkok, Thailand",
+    "locationDetail": "[35.5720991, 139.1141342]",
     "distances": [
       "풀"
     ],
-    "registrationUrl": "www.Bangsaen21.com/en",
+    "registrationUrl": "https://mtfujimarathon.com/",
     "registrationStatus": "unknown",
     "tags": [
       "AIMS",
@@ -7174,7 +7152,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7106",
+    "name": "Maratón Powerade Monterrey",
+    "date": "2026-12-13",
+    "endDate": "2026-12-14",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Mexico",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.maratonmonterrey.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7026",
@@ -7197,7 +7198,53 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7025",
+    "name": "Guangzhou Marathon",
+    "date": "2026-12-20",
+    "endDate": "2026-12-21",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "China",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.guangzhou-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7057",
+    "name": "Bangsaen21",
+    "date": "2026-12-20",
+    "endDate": "2026-12-21",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Bangkok, Thailand",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.Bangsaen21.com/en",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7012",
@@ -7221,7 +7268,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7078",
@@ -7246,7 +7293,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7081",
@@ -7269,7 +7316,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7096",
@@ -7292,7 +7339,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6847",
@@ -7315,7 +7362,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7084",
@@ -7338,7 +7385,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-4218",
@@ -7363,7 +7410,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7074",
@@ -7386,7 +7433,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7085",
@@ -7409,7 +7456,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7100",
@@ -7432,7 +7479,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7082",
+    "name": "Thai Sikh Run",
+    "date": "2027-01-31",
+    "endDate": "2027-02-01",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Khet Phra, Thailand",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.thaisikhrun.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7079",
@@ -7456,30 +7526,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-7082",
-    "name": "Thai Sikh Run",
-    "date": "2027-01-31",
-    "endDate": "2027-02-01",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Khet Phra, Thailand",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.thaisikhrun.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7104",
@@ -7502,7 +7549,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6909",
@@ -7525,7 +7572,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6919",
@@ -7548,7 +7595,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6836",
@@ -7571,7 +7618,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7088",
@@ -7595,7 +7642,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7076",
@@ -7618,7 +7665,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6818",
@@ -7641,7 +7688,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7003",
@@ -7664,7 +7711,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6865",
@@ -7687,7 +7734,7 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7089",
@@ -7710,7 +7757,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7037",
@@ -7733,7 +7780,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6799",
@@ -7756,7 +7803,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7059",
@@ -7779,7 +7826,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6804",
@@ -7804,7 +7851,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7091",
@@ -7827,7 +7874,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6524",
@@ -7850,7 +7897,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7063",
@@ -7874,7 +7921,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7067",
@@ -7898,7 +7945,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7007",
@@ -7924,7 +7971,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7097",
@@ -7947,7 +7994,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7070",
@@ -7970,7 +8017,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6930",
@@ -7993,7 +8040,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6887",
@@ -8016,7 +8063,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6875",
+    "name": "Maratón 7 Colores",
+    "date": "2027-11-28",
+    "endDate": "2027-11-29",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "Colombia",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "fundacion7colores.org/en/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6805",
@@ -8041,53 +8111,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6875",
-    "name": "Maratón 7 Colores",
-    "date": "2027-11-28",
-    "endDate": "2027-11-29",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "Colombia",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "fundacion7colores.org/en/",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
-  },
-  {
-    "id": "aims-aims-worldrunning.org-6868",
-    "name": "Pune International Marathon",
-    "date": "2027-12-05",
-    "endDate": "2027-12-06",
-    "country": "INTL",
-    "region": "기타",
-    "locationDetail": "India",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.marathonpune.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6898",
@@ -8110,7 +8134,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-6868",
+    "name": "Pune International Marathon",
+    "date": "2027-12-05",
+    "endDate": "2027-12-06",
+    "country": "INTL",
+    "region": "기타",
+    "locationDetail": "India",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.marathonpune.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-6845",
@@ -8133,7 +8180,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   },
   {
     "id": "aims-aims-worldrunning.org-4219",
@@ -8158,6 +8205,6 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-04T21:37:08.923Z"
+    "lastUpdated": "2026-03-05T21:38:25.345Z"
   }
 ]
