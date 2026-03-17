@@ -1,28 +1,5 @@
 [
   {
-    "id": "aims-aims-worldrunning.org-6727",
-    "name": "Seoul Marathon",
-    "date": "2026-03-15",
-    "endDate": "2026-03-16",
-    "country": "KR",
-    "region": "기타",
-    "locationDetail": "Korea",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.seoul-marathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-03-16T21:42:42.533Z"
-  },
-  {
     "id": "aims-aims-worldrunning.org-6937",
     "name": "Gyeongju Marathon",
     "date": "2026-10-17",
@@ -43,6 +20,6 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-16T21:42:42.535Z"
+    "lastUpdated": "2026-03-17T21:40:14.928Z"
   }
 ]
