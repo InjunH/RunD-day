@@ -20,6 +20,29 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-03-31T21:41:20.557Z"
+    "lastUpdated": "2026-04-01T21:43:44.743Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7154",
+    "name": "JTBC Seoul Marathon",
+    "date": "2026-11-01",
+    "endDate": "2026-11-02",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "marathon.jtbc.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": true,
+    "lastUpdated": "2026-04-01T21:43:44.743Z"
   }
 ]
