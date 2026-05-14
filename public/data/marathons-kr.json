@@ -20,7 +20,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-05-13T22:14:34.300Z"
+    "lastUpdated": "2026-05-14T22:13:05.970Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7154",
@@ -43,6 +43,29 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-05-13T22:14:34.300Z"
+    "lastUpdated": "2026-05-14T22:13:05.970Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7211",
+    "name": "Seoul Marathon",
+    "date": "2027-03-21",
+    "endDate": "2027-03-22",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.seoul-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-05-14T22:13:05.971Z"
   }
 ]
