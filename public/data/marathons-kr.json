@@ -20,7 +20,30 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-07-09T22:28:33.179Z"
+    "lastUpdated": "2026-07-10T22:04:55.791Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7294",
+    "name": "Chuncheon International Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.chuncheonmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-10T22:04:55.791Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7154",
@@ -43,7 +66,30 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-07-09T22:28:33.180Z"
+    "lastUpdated": "2026-07-10T22:04:55.791Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7312",
+    "name": "Daegu Marathon",
+    "date": "2027-02-28",
+    "endDate": "2027-03-01",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Daegu, Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://daegu.go.kr/daegumarathon/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-10T22:04:55.792Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7211",
@@ -66,6 +112,6 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-07-09T22:28:33.180Z"
+    "lastUpdated": "2026-07-10T22:04:55.792Z"
   }
 ]
