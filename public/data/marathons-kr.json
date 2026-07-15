@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "aims-aims-worldrunning.org-6937",
+    "name": "Gyeongju Marathon",
+    "date": "2026-10-17",
+    "endDate": "2026-10-18",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.gyeongjumarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-15T22:02:32.899Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7294",
+    "name": "Chuncheon International Marathon",
+    "date": "2026-10-25",
+    "endDate": "2026-10-26",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.chuncheonmarathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-15T22:02:32.899Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7154",
+    "name": "JTBC Seoul Marathon",
+    "date": "2026-11-01",
+    "endDate": "2026-11-02",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "marathon.jtbc.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": true,
+    "lastUpdated": "2026-07-15T22:02:32.899Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7312",
+    "name": "Daegu Marathon",
+    "date": "2027-02-28",
+    "endDate": "2027-03-01",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Daegu, Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "https://daegu.go.kr/daegumarathon/",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-15T22:02:32.900Z"
+  },
+  {
+    "id": "aims-aims-worldrunning.org-7211",
+    "name": "Seoul Marathon",
+    "date": "2027-03-21",
+    "endDate": "2027-03-22",
+    "country": "KR",
+    "region": "기타",
+    "locationDetail": "Korea",
+    "distances": [
+      "풀"
+    ],
+    "registrationUrl": "www.seoul-marathon.com",
+    "registrationStatus": "unknown",
+    "tags": [
+      "AIMS",
+      "국제대회",
+      "해외대회",
+      "AIMS공인"
+    ],
+    "source": "aims",
+    "isPopular": false,
+    "lastUpdated": "2026-07-15T22:02:32.900Z"
+  }
+]
