@@ -1,19 +1,19 @@
 {
-  "lastRun": "2026-09-14T23:43:11.742Z",
-  "nextScheduledRun": "2026-09-15T21:00:00.000Z",
+  "lastRun": "2026-09-15T23:27:07.023Z",
+  "nextScheduledRun": "2026-09-16T21:00:00.000Z",
   "sources": [
     {
       "name": "gorunning",
       "status": "failed",
       "itemCount": 0,
-      "lastUpdated": "2026-09-14T23:43:10.106Z",
+      "lastUpdated": "2026-09-15T23:27:05.887Z",
       "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://gorunning.kr/races\", waiting until \"networkidle\"\n"
     },
     {
       "name": "aims",
       "status": "success",
       "itemCount": 451,
-      "lastUpdated": "2026-09-14T23:43:11.672Z"
+      "lastUpdated": "2026-09-15T23:27:06.954Z"
     }
   ],
   "totalEvents": 436,
