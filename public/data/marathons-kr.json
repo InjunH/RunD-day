@@ -1,28 +1,5 @@
 [
   {
-    "id": "aims-aims-worldrunning.org-6937",
-    "name": "Gyeongju Marathon",
-    "date": "2026-10-17",
-    "endDate": "2026-10-18",
-    "country": "KR",
-    "region": "기타",
-    "locationDetail": "Korea",
-    "distances": [
-      "풀"
-    ],
-    "registrationUrl": "www.gyeongjumarathon.com",
-    "registrationStatus": "unknown",
-    "tags": [
-      "AIMS",
-      "국제대회",
-      "해외대회",
-      "AIMS공인"
-    ],
-    "source": "aims",
-    "isPopular": false,
-    "lastUpdated": "2026-10-22T23:54:47.910Z"
-  },
-  {
     "id": "aims-aims-worldrunning.org-7294",
     "name": "Chuncheon International Marathon",
     "date": "2026-10-25",
@@ -43,7 +20,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-10-22T23:54:47.910Z"
+    "lastUpdated": "2026-10-23T23:46:24.376Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7154",
@@ -66,7 +43,7 @@
     ],
     "source": "aims",
     "isPopular": true,
-    "lastUpdated": "2026-10-22T23:54:47.911Z"
+    "lastUpdated": "2026-10-23T23:46:24.376Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7312",
@@ -89,7 +66,7 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-10-22T23:54:47.911Z"
+    "lastUpdated": "2026-10-23T23:46:24.377Z"
   },
   {
     "id": "aims-aims-worldrunning.org-7211",
@@ -112,6 +89,6 @@
     ],
     "source": "aims",
     "isPopular": false,
-    "lastUpdated": "2026-10-22T23:54:47.911Z"
+    "lastUpdated": "2026-10-23T23:46:24.377Z"
   }
 ]
